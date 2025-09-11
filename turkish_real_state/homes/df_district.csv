@@ -1,0 +1,4785 @@
+,id,data
+0,1,Kordonboyu
+1,2,Reşadiye
+2,3,Levent
+3,4,Altayçeşme
+4,5,M. Fevzi Çakmak
+5,6,Küçükkuyu Bld. (Mıhlı)
+6,7,Sarıdemir
+7,8,Ortakentyahşi
+8,9,Adalet
+9,10,Ata
+10,11,Akkent
+11,12,Şehitler
+12,13,Çamlıçay
+13,14,İnönü
+14,15,Karataş
+15,16,Göztepe
+16,17,Afetevler
+17,18,Akçay
+18,19,Çavuşoğlu
+19,20,Bitez
+20,21,Çınarlı Köyü
+21,22,Karaağaç
+22,23,İskele
+23,24,Yeşilova
+24,25,Cihangir
+25,26,Yokuşbaşı
+26,27,Ocaklı
+27,28,Riva
+28,29,Yakaköy
+29,30,Yelki
+30,31,Yıldız
+31,32,Güvendik
+32,33,9 Eylül
+33,34,Zeytinalanı
+34,35,Kahramandere
+35,36,Maslak
+36,37,Düzce
+37,38,Ören
+38,39,Ali Çetinkaya
+39,40,Mecidiyeköy
+40,41,Siteler
+41,42,Barbaros
+42,43,Yeni Boğaziçi Köyü
+43,44,Ataköy 7-8-9-10. Kısım
+44,45,Nisbetiye
+45,46,Çiftlikköy
+46,47,Kızılırmak
+47,48,Kardeşköy
+48,49,Kemerağzı
+49,50,Bahçelievler
+50,51,Dalyan
+51,52,İkizçay
+52,53,Çeliktepe
+53,54,Sakarya
+54,55,Harbiye
+55,56,Yahyakaptan
+56,57,Levazım
+57,58,Seyitcemali
+58,59,Mahkeme
+59,60,50. Yıl
+60,61,Cumhuriyet
+61,62,Kargıpınarı
+62,63,Alaçatı
+63,64,Gayrettepe
+64,65,Vişnezade
+65,66,Hasanoğlan Havuzbaşı
+66,67,Camikebir
+67,68,Salimbey
+68,69,Yalı
+69,70,Dikilitaş
+70,71,Cevizli
+71,72,19 Mayıs
+72,73,Ayrancı
+73,74,Turabiye
+74,75,Naipli
+75,76,Denizli
+76,77,Atakent
+77,78,İstinye
+78,79,İlkadım
+79,80,Dirmil
+80,81,Kuşçular
+81,82,Huzur
+82,83,Mesudiye
+83,84,Çobançeşme
+84,85,Gümüşlük
+85,86,Gümüşpınar
+86,87,Varsak Karşıyaka
+87,88,Hıdırlık
+88,89,Akdeniz
+89,90,Altınkale
+90,91,Pelitköy
+91,92,İçmeler
+92,93,Akyaka
+93,94,Anafartalar
+94,95,Ataköy 2-5-6. Kısım
+95,96,Kemal Türkler
+96,97,Tepe
+97,98,Hacı İsa
+98,99,Sinanpaşa
+99,100,Ulamış
+100,101,Halkkent
+101,102,Muratpaşa
+102,103,Sultan Selim
+103,104,Kazlıçeşme
+104,105,Yeditepe
+105,106,Gökova
+106,107,Hatipirimi
+107,108,Akçatekir
+108,109,Altınova
+109,110,Turgutreis
+110,111,Beldibi
+111,112,Esentepe
+112,113,Atatürk
+113,114,Nusratiye
+114,115,Alkent 2000
+115,116,Muhittin
+116,117,Fulya
+117,118,Maltepe
+118,119,Denizköşkler
+119,120,Cemaliye
+120,121,Büyükdere
+121,122,Toparlar
+122,123,Merkez
+123,124,Ege
+124,125,Güzelyalı Köyü
+125,126,Mimar Sinan
+126,127,Kemalettin
+127,128,Mansuroğlu
+128,129,150 Evler
+129,130,Göltürkbükü
+130,131,Ortaköy
+131,132,Örnekköy
+132,133,Papuççular
+133,134,Şehit Osman Avcı
+134,135,Karaköy
+135,136,Rumeli
+136,137,Yenişehir
+137,138,Şeyh Sinan
+138,139,Değirmendere
+139,140,Kuyulu
+140,141,Payamlı
+141,142,Altınoluk
+142,143,Sığacık
+143,144,Beşköprü
+144,145,Kayabaşı
+145,146,Torba
+146,147,Kadriye
+147,148,İsmet İnönü
+148,149,Altınkum
+149,150,Turhanbey
+150,151,Kalabak
+151,152,Yalınayak
+152,153,Yenimahalle
+153,154,Çınarlı
+154,155,Yaşardoğu
+155,156,Çandarlı
+156,157,Alikahya Fatih
+157,158,Kuruçeşme
+158,159,Alibey
+159,160,Patlangıç
+160,161,Gaziler
+161,162,Güzelyalı Burgaz
+162,163,Akbük
+163,164,Yeniköy
+164,165,Musalla
+165,166,Karagöl Köyü
+166,167,Gündoğan
+167,168,Efeler
+168,169,Çamlık
+169,170,Nizam
+170,171,Yeşilyurt
+171,172,Akarca
+172,173,Fuat Edip Baksı
+173,174,Küçükkumla
+174,175,Uçhisar Bld. (Yukarı)
+175,176,Yeni
+176,177,Yurt
+177,178,Mahmutlar
+178,179,İstasyon
+179,180,Çarkıpare
+180,181,Kızılpınar
+181,182,Yeşiltepe
+182,183,Gürselpaşa
+183,184,Yavuz Selim
+184,185,Menderes
+185,186,Güzelyurt
+186,187,Kültür
+187,188,Yedi Ocak
+188,189,Çağlayan
+189,190,Pınarköy
+190,191,Hisar
+191,192,Kızılay
+192,193,Çeşmealtı Köyü
+193,194,Heybeliada
+194,195,Beynam
+195,196,Uğur Mumcu
+196,197,Kadınlar Denizi
+197,198,Panayır
+198,199,Büyükhasbahçe
+199,200,Yüzüncüyıl
+200,201,Meydankavağı
+201,202,Kurşunlu
+202,203,Toros
+203,204,Davutlar
+204,205,Gültepe
+205,206,Çatalçam Köyü
+206,207,Vatan
+207,208,Orta
+208,209,Muhittin Erener
+209,210,İkiçeşmelik
+210,211,Ayvalı Köyü
+211,212,Mutlu
+212,213,Soğucak
+213,214,Gümüşpala
+214,215,Gümüştepe
+215,216,Küçükköy
+216,217,Hamitköy Köyü
+217,218,Seymenli
+218,219,Altıntaş
+219,220,Karpuzdere
+220,221,Doğa
+221,222,Şafak
+222,223,Kemal Paşa
+223,224,Teyyaredüzü
+224,225,İslamhaneleri
+225,226,Mustafa Kemal Atatürk
+226,227,Habibler
+227,228,Beytepe
+228,229,Saray Osmangazi
+229,230,Yavansu
+230,231,Osmangazi
+231,232,Deniz
+232,233,Güneykent
+233,234,Küçükkuyu Bld. (Gökçetepe)
+234,235,Özyurt
+235,236,Erzene
+236,237,Kısık
+237,238,Hürriyet
+238,239,Güzelhisar
+239,240,Mimarsinan
+240,241,Ayrancılar
+241,242,Murat
+242,243,Poyracık
+243,244,Pancarlı
+244,245,Sarıkız
+245,246,Çankaya
+246,247,Kazım Karabekir
+247,248,Çukuraltı
+248,249,Soğanlı
+249,250,Barsama
+250,251,İğneada Bld. (Yeni)
+251,252,Karaova
+252,253,Çiftlik
+253,254,Yenicuma
+254,255,Foça
+255,256,Karsak
+256,257,Şirinyalı
+257,258,75. Yıl
+258,259,Maden
+259,260,Koru Bld. (Cumhuriyet)
+260,261,Güzelçamlı
+261,262,Küçükbahçe
+262,263,Yıldırım Beyazıt
+263,264,Kaleiçi
+264,265,Tellidere
+265,266,Yıldırım
+266,267,Ak-Yeniköy
+267,268,Harmanlar
+268,269,Budaklar Köyü
+269,270,Mahfesığmaz
+270,271,Ferah
+271,272,Huzurevleri
+272,273,Orhaniye
+273,274,Suadiye
+274,275,Dumlupınar
+275,276,Rasimpaşa
+276,277,Kuzeyyaka
+277,278,Duatepe
+278,279,Çayiçi
+279,280,Çolak İbrahim Bey
+280,281,Fener
+281,282,Safran Köyü
+282,283,Kozluk
+283,284,Uncalı
+284,285,Çakıl
+285,286,Akköprü Köyü
+286,287,Zeytinova
+287,288,Çamlıkule
+288,289,Körfez
+289,290,Güzeloba
+290,291,Limontepe
+291,292,Kemeraltı
+292,293,Kozağaç
+293,294,Emek
+294,295,Yapıldak Köyü
+295,296,Dereağzı
+296,297,Fevzi Çakmak
+297,298,Kumla
+298,299,Aksüt
+299,300,Adatepe
+300,301,Yeşil
+301,302,Evka 4
+302,303,Murat Reis
+303,304,Güzelyalı
+304,305,Yahya Kemal
+305,306,Belediye Evleri
+306,307,Şahbazlar Köyü
+307,308,Koru Bld. (Hürriyet)
+308,309,Kiremithane
+309,310,Konak
+310,311,Yalıkavak
+311,312,Yayla
+312,313,Aziziye
+313,314,16 Eylül
+314,315,Boyalık
+315,316,Armutalan
+316,317,Paşaköy Köyü
+317,318,Sanayi
+318,319,Altınyunus
+319,320,Cüneytbey
+320,321,Akın Simav
+321,322,Unkapanı
+322,323,Çıldır
+323,324,Cuma
+324,325,Şakirpaşa
+325,326,Germiyan
+326,327,Yelaltı
+327,328,Tömük
+328,329,İmbatlı
+329,330,İsmetpaşa
+330,331,Ertuğrul
+331,332,Dokuz Eylül
+332,333,Göktepe
+333,334,Kemalpaşa
+334,335,Çamlıbel
+335,336,Erenköy
+336,337,Şabanoğlu
+337,338,Küçükkuyu Bld. (Sahil)
+338,339,Vali Rahmi Bey
+339,340,Kumbağ
+340,341,30 Ağustos
+341,342,Gazi
+342,343,Güneş
+343,344,Ertuğrul Gazi
+344,345,Yenibaraj
+345,346,Mavişehir
+346,347,Arıklı Köyü
+347,348,Çoruk
+348,349,Güvenlik
+349,350,Akbaş Köyü
+350,351,Atilla
+351,352,Dilşikar
+352,353,Zafer
+353,354,Karasu
+354,355,Pireveliler
+355,356,Narlı
+356,357,Türkmen
+357,358,Bahçecik
+358,359,Tuzaklı
+359,360,Karabağlar
+360,361,Kızılarık
+361,362,Kuzuluk
+362,363,Ahmetçe Köyü
+363,364,Gözne
+364,365,Gümüşsuyu
+365,366,Sahil
+366,367,Girne
+367,368,Taşliman
+368,369,Cipköy Köyü
+369,370,Tepecik
+370,371,Erikli Köyü
+371,372,Firuzağa
+372,373,Şirinevler
+373,374,Orhangazi
+374,375,Emekevler
+375,376,Akköy
+376,377,Alandere
+377,378,Şemikler
+378,379,Dede
+379,380,Balatçık
+380,381,Menteş
+381,382,Karakol Mh.
+382,383,Mecidiye
+383,384,Salihler
+384,385,İstiklal
+385,386,Boğaziçi
+386,387,Adnan Süvari
+387,388,Mevlana
+388,389,Gesi Bahçeli
+389,390,Küçükkaya
+390,391,Bahçeşehir
+391,392,Ünlüce
+392,393,Zafertepe
+393,394,Karapınar
+394,395,Onur
+395,396,Seyyid Ömer
+396,397,Arapsuyu
+397,398,Büyükkumla
+398,399,Yeniçiftlik
+399,400,Beyazevler
+400,401,Avsallar
+401,402,Esenyalı
+402,403,Taşyaka
+403,404,Evka-5
+404,405,Aydıntepe
+405,406,Harmandalı Gazi Mustafa Kemal Atatürk
+406,407,Kumburgaz
+407,408,Ünsal
+408,409,Mumcular
+409,410,Osmanağa
+410,411,Efendi
+411,412,Geriş
+412,413,İncirtepe
+413,414,Nurihas
+414,415,Gümüldür İnönü
+415,416,Mordoğan
+416,417,Kavaklı
+417,418,Eğitim
+418,419,Reisdere
+419,420,Kavakpınar
+420,421,Bayraklıdede
+421,422,Tuna
+422,423,Turan
+423,424,Ardıç
+424,425,Yunus
+425,426,Sururi Mehmet Efendi
+426,427,Çırpıcı
+427,428,Aksoy
+428,429,Gesi Güney
+429,430,Kuruoba Köyü
+430,431,Davultepe
+431,432,Yeni Mahalle
+432,433,Köşklüçiftlik Mh.
+433,434,Tamış Köyü
+434,435,Dr. Ziya Kaya
+435,436,Budamış Köyü
+436,437,Viranşehir
+437,438,Mürefte
+438,439,Dicle
+439,440,Ataşehir
+440,441,Hamidiye
+441,442,Tosmur
+442,443,İmrahor
+443,444,Liman
+444,445,Kurttepe
+445,446,Rüstem Paşa
+446,447,Şahindere
+447,448,Sancak
+448,449,Hacı İlyas
+449,450,Yeşiloba
+450,451,Tepeköy
+451,452,Şifne
+452,453,Ulubatlı
+453,454,Yaya
+454,455,Altınpark
+455,456,Şekerhane
+456,457,Erecek Köyü
+457,458,Şelale
+458,459,Güven
+459,460,Kesikkapı
+460,461,Yalıncak
+461,462,Süleymanköy Köyü
+462,463,İhsan Alyanak
+463,464,Çamdibi
+464,465,Namık Kemal
+465,466,2000 Evler
+466,467,Mithat Paşa
+467,468,Piri Reis
+468,469,Tuzla
+469,470,Buca Koop.
+470,471,Soğucaksu
+471,472,Hurma
+472,473,Hoca Hamza
+473,474,Ovacık
+474,475,Ayyıldız
+475,476,Güzelyalı Yalı
+476,477,Balaban
+477,478,Akıncılar
+478,479,Revnak Köyü
+479,480,Orhantepe
+480,481,Davutkadı
+481,482,Yumaklı Köyü
+482,483,Ergazi Köyü
+483,484,Mustafa Kemal Paşa
+484,485,Yenice
+485,486,Kaynarca
+486,487,Karslılar
+487,488,Site
+488,489,Kaynak
+489,490,Tavaklı Köyü
+490,491,Ilıca
+491,492,Mermerli
+492,493,Doğancılar Köyü
+493,494,Yenikent
+494,495,Harmantepe
+495,496,Yenigöl
+496,497,Gürsu
+497,498,Geyikli Bld. (Hürriyet)
+498,499,Bengiler
+499,500,Gölcükler
+500,501,Zübeyde Hanım
+501,502,Süleymaniye
+502,503,Irmak
+503,504,Çiftlik Köyü
+504,505,Adnan Menderes
+505,506,Alpaslan
+506,507,Semizkumlar
+507,508,Kılıç Reis
+508,509,İnkılap
+509,510,Eğriçam
+510,511,Güzelyalı Siteler
+511,512,Yenikent Mh.
+512,513,Kilidülbahir Köyü
+513,514,Ünalan
+514,515,Çamçeşme
+515,516,Ulus
+516,517,Kargalı
+517,518,Kundu
+518,519,Çifte Havuzlar
+519,520,Tevfikiye
+520,521,Çağlar
+521,522,Teomanpaşa
+522,523,Sofudede
+523,524,Gökçebelen
+524,525,Sıra
+525,526,Koyunbaba
+526,527,Göçerler
+527,528,Zeamet
+528,529,Ayni Ali
+529,530,Nişancıpaşa
+530,531,Feriköy
+531,532,Mehmet Akif Ersoy
+532,533,Arda
+533,534,Saruhan
+534,535,İncirli Pınar
+535,536,Bayramoğlu
+536,537,Çınarpınar Köyü
+537,538,Yenicamii
+538,539,Kayacık Köyü
+539,540,Aydınlıkevler
+540,541,Sefa Çamlık
+541,542,Türkoba
+542,543,Sümer
+543,544,Alaybey
+544,545,Güzelce
+545,546,Altaylılar
+546,547,Fatih
+547,548,Bekirdere
+548,549,Beyobası
+549,550,29 Ekim
+550,551,14 Mayıs
+551,552,Hafsa Sultan
+552,553,Çatalmeşe
+553,554,Kuşlubahçe
+554,555,Ahmetbeyli
+555,556,Yaylacık
+556,557,İzzettin
+557,558,Fırat
+558,559,Yenigün
+559,560,Çarşı
+560,561,Kurtuluş
+561,562,Karşıyaka
+562,563,15 Temmuz Camili
+563,564,Parlak
+564,565,Bekbele
+565,566,Gümüşdöven
+566,567,Zeytinlik
+567,568,Sarıyer
+568,569,Karabağ
+569,570,Anbar
+570,571,Atayurt
+571,572,Kınalıada
+572,573,Mersin Alanı
+573,574,Camii
+574,575,17 Eylül
+575,576,Hacıahmet
+576,577,Teşvikiye Bld. (Karşıyaka)
+577,578,Arpaçbahşiş
+578,579,Laleli
+579,580,Öğretmenevleri
+580,581,Soğanlık Yeni
+581,582,Aktepe
+582,583,Yüksekalan
+583,584,Selimpaşa
+584,585,Varsak Esentepe
+585,586,Göktaşlı
+586,587,Atıfbey
+587,588,Basınköy
+588,589,Altındağ
+589,590,Maliyeciler
+590,591,Oba
+591,592,Kavaklık
+592,593,Akşemsettin
+593,594,Ali Fuat Cebesoy
+594,595,Etiler
+595,596,Yenigürle
+596,597,Bostanlı
+597,598,Gökbelen
+598,599,Sarıana
+599,600,Şirintepe
+600,601,İsabeyli
+601,602,Çakırbağ Köyü
+602,603,Dilmen
+603,604,Güre
+604,605,Gençlik
+605,606,Esenevler
+606,607,Sayrakçı
+607,608,Küçük Çiğli
+608,609,Selvilitepe
+609,610,Sarısu
+610,611,Güvenevler
+611,612,Ayanoğlu
+612,613,Tahsin Yazıcı
+613,614,Babataşı
+614,615,Tunca
+615,616,Çamlıca
+616,617,Çamlı
+617,618,Mustafa Kemal
+618,619,Terazidere
+619,620,Gönyeli Köyü
+620,621,Fikri Altay
+621,622,Yıldıztepe
+622,623,Piri Mehmet Paşa
+623,624,Limanreis
+624,625,Hacı Abdi
+625,626,Muradiye
+626,627,Reşatbey
+627,628,Basın Sitesi
+628,629,Güneşli
+629,630,Latife Hanım
+630,631,Reis
+631,632,Doğukent
+632,633,Dizdariye
+633,634,Soğuksu
+634,635,Kurtyeri
+635,636,Hacıfeyzullah
+636,637,Mithatpaşa
+637,638,Yazlık Köyü
+638,639,Dutlubahçe
+639,640,Yeni Cami
+640,641,Yurtpınar
+641,642,Aşağıkaraaşık Köyü
+642,643,Akarbaşı
+643,644,Kısırlar
+644,645,Bafra Köyü
+645,646,Topçuasım
+646,647,Bozyaka
+647,648,Sunullah
+648,649,Bağlarbaşı
+649,650,Dinçer
+650,651,Kamiloba
+651,652,Yeşilbağlar
+652,653,Altınova Orta
+653,654,Keçeci Piri
+654,655,Anıt
+655,656,Goncalar
+656,657,Sipahi Köyü
+657,658,Güzelbağ
+658,659,Pınarbaşı
+659,660,Demirtaş
+660,661,Örenşehir
+661,662,Görece Cumhuriyet
+662,663,Dereköy
+663,664,1. Anafartalar
+664,665,Ata SB
+665,666,Şahintepe
+666,667,R. Şevket İnce
+667,668,Adnan Kahveci
+668,669,Ahatlı
+669,670,Songur
+670,671,Gölbaşı
+671,672,Burç Esentepe
+672,673,Gümbet
+673,674,Hüsnü Karakaş
+674,675,Kemal Reis
+675,676,Gökçe
+676,677,Feyzullah
+677,678,Yamanlar
+678,679,Selçuk
+679,680,Kestel
+680,681,Koca Mustafapaşa
+681,682,Meşrutiyet
+682,683,Alacamescit
+683,684,Gazikent
+684,685,Kırkpınar Soğuksu
+685,686,Fığla
+686,687,Poligon
+687,688,Kocasinan Merkez
+688,689,Alata
+689,690,Fabrikalar
+690,691,Yukarı Zaferiye
+691,692,Mersindere
+692,693,Nuripaşa
+693,694,Kiremitli
+694,695,Gürköy
+695,696,Çetin Emeç
+696,697,Kasımpaşa
+697,698,Metin Oktay
+698,699,Dedebaşı
+699,700,Kızıltoprak
+700,701,Tavşancıl
+701,702,Hisarönü
+702,703,Gebizli
+703,704,Düdenbaşı
+704,705,Köyiçi
+705,706,Gazipaşa
+706,707,Gündoğdu
+707,708,Hasanefendi-Ramazan Paşa
+708,709,Kıncıllı
+709,710,Güneştepe
+710,711,Bayraktar
+711,712,Üçkuyular
+712,713,Fahrettin Altay
+713,714,Utku
+714,715,Tepekule
+715,716,Öğretmenler
+716,717,Alsancak
+717,718,Aydoğdu
+718,719,Ortabayır
+719,720,Korucuk Köyü
+720,721,Yakınca
+721,722,Tekke
+722,723,Çamlıpınar
+723,724,Sütçüler
+724,725,İbnisina
+725,726,Palmiye
+726,727,Beyciler
+727,728,Kaleköy
+728,729,Selçuk Bey
+729,730,1 Nolu Beşirli
+730,731,Özdere Cumhuriyet
+731,732,Akkuyu
+732,733,Alemşah Köyü
+733,734,Gülpınar Köyü
+734,735,Arap Hasan
+735,736,Süleyman Bey
+736,737,Yörük
+737,738,Subaşı
+738,739,Yenişakran
+739,740,Abdurrahman Nafiz Gürman
+740,741,Kaşüstü
+741,742,Körkün
+742,743,Çatalarık
+743,744,Küçükkaymaklı Mh.
+744,745,Hacı Hüseyin
+745,746,Yedi Eylül
+746,747,Gülpınar
+747,748,Sinan
+748,749,Çiçek
+749,750,Celaliye Köyü
+750,751,Plevne
+751,752,M.Akif Ersoy
+752,753,Topçular
+753,754,Esenlik
+754,755,Altıntas
+755,756,Çaybaşı
+756,757,Rafet Paşa
+757,758,Pınar
+758,759,Merkez Efendi
+759,760,Sahilevleri
+760,761,Buhara
+761,762,Çay
+762,763,Görükle
+763,764,Atmaca
+764,765,Yeni Emek
+765,766,Yedikule
+766,767,Zeytinli
+767,768,Savuca
+768,769,Gündoğdu-Turgut
+769,770,Evka 3
+770,771,Camiatik
+771,772,Sarıtaş
+772,773,Ölüdeniz
+773,774,Kemer
+774,775,Karaçulha
+775,776,İncilli
+776,777,Kemal Atatürk
+777,778,Demirköprü
+778,779,Kocaçeşme
+779,780,Hocaalizade
+780,781,Ergene
+781,782,Kanal
+782,783,Özbaşı
+783,784,Güller Pınarı
+784,785,Muammer Akar
+785,786,Aydınlar
+786,787,Pirireis
+787,788,Korutürk
+788,789,Kuyualan
+789,790,Sümbül Efendi
+790,791,Siyavuşpaşa
+791,792,Cemalpaşa
+792,793,Yenidoğan
+793,794,Batıkent
+794,795,Ordu Köyü
+795,796,Nazmi Saatçi
+796,797,Ziyapaşa
+797,798,Fakıuşağı
+798,799,İskenderpaşa
+799,800,Torbalı
+800,801,Kuşkavağı
+801,802,Sultaniçe Köyü
+802,803,Hırka-i Şerif
+803,804,İbrahimçelebi
+804,805,Molla Yusuf
+805,806,Cumalı
+806,807,Hızırbey
+807,808,Eriklice
+808,809,Celal Bayar
+809,810,Güldede
+810,811,Yaylaköy Köyü
+811,812,Postane
+812,813,Eskişehir
+813,814,Akçaalan
+814,815,Avcılar
+815,816,Mahmudiye
+816,817,Eski Mezitli
+817,818,Donanmacı
+818,819,Uncubozköy
+819,820,Salacak
+820,821,Kızılcaterzi
+821,822,Bahriye Üçok
+822,823,Kızkalesi
+823,824,Geyikli Bld. (Cumhuriyet)
+824,825,Aşağıpazar
+825,826,Pazaryeri
+826,827,Çeltikçi
+827,828,Refet Bele
+828,829,Büyük Çavuşlu
+829,830,Muratlar Köyü
+830,831,Yunus Emre
+831,832,Postacılar
+832,833,Kocatepe
+833,834,Köşklü Çeşme
+834,835,Cebeci
+835,836,Sarılar
+836,837,Sahilköy
+837,838,Karaçay
+838,839,Koyuncu
+839,840,Sırrın
+840,841,Üçevler
+841,842,Yeşilbayır
+842,843,Ortaköy Mh.
+843,844,Bahariye
+844,845,Yükseliş
+845,846,Çapahasan
+846,847,Güllübahçe
+847,848,Pamukçu
+848,849,Kadıkalesi
+849,850,Binevler
+850,851,Güvercinlik
+851,852,Mehmet Akif
+852,853,Abbas
+853,854,Göksu
+854,855,Şenköy
+855,856,Doğanlar
+856,857,Zerdalilik
+857,858,Söğütlüyurt
+858,859,Babakale Köyü
+859,860,Terzialiler
+860,861,Memurevleri
+861,862,Albayrak
+862,863,Gürpınar
+863,864,Üçgen
+864,865,Pazarcı
+865,866,Mareşal Çakmak
+866,867,Özgürlük
+867,868,Uşakgöl
+868,869,Esatpaşa
+869,870,Gazi Mustafa Kemal
+870,871,Güzeloluk
+871,872,Yiğitler
+872,873,Kazıklı
+873,874,Hamdibey
+874,875,Tersane
+875,876,Alsancak Köyü
+876,877,Çeşmeli
+877,878,Yazıbaşı
+878,879,Turgutlar
+879,880,Kızılsaray
+880,881,Barış
+881,882,Koza
+882,883,Hamzabali
+883,884,Balıklıova
+884,885,Limonluk
+885,886,Çanakkale Mh.
+886,887,Nakkaş
+887,888,Sarıbeyli Köyü
+888,889,Türbe
+889,890,Yıldıztabya
+890,891,Yeniköy Yerkesik
+891,892,Nergiz
+892,893,Gaziakdemir
+893,894,Sarıgerme
+894,895,Kışla
+895,896,Sipahili
+896,897,PTT
+897,898,Dalaklı
+898,899,Hasanbaba
+899,900,Ambarlı
+900,901,Cami
+901,902,Çamköy
+902,903,Sevgi
+903,904,Üniversite
+904,905,Burhaniye
+905,906,Rahime Hatun
+906,907,Teleferik
+907,908,Kadifekale
+908,909,Limanköy Köyü
+909,910,Akyarlar
+910,911,Ermenek
+911,912,Sakarya Mh.
+912,913,Çınar
+913,914,Konuksever
+914,915,Tomtom
+915,916,Ufuk
+916,917,Merkez Mh.
+917,918,Sakintepe
+918,919,Mahmutseydi
+919,920,Yahşelli
+920,921,Sancaktepe
+921,922,Tirilye
+922,923,Kırtık
+923,924,Pancar
+924,925,Duraliler
+925,926,Ceritler
+926,927,Selahaddin Eyyubi
+927,928,Kazımdirik
+928,929,Kızıklı
+929,930,Esentepe Köyü
+930,931,Konacık
+931,932,Karaçalı
+932,933,Kalyoncu Kulluğu
+933,934,Ayaş
+934,935,Esenköy Bld. (Aliye Hanım)
+935,936,Maksem
+936,937,Silivrikapı
+937,938,Menteşeoğlu
+938,939,Koru
+939,940,Gülveren
+940,941,Akçakonak
+941,942,Kemerkaya
+942,943,Çırkan
+943,944,Meclis
+944,945,Sultançiftliği
+945,946,Sokubaşı
+946,947,Batı
+947,948,Karamehmet
+948,949,Beyceli
+949,950,Yeşilüzümlü
+950,951,Bahar
+951,952,Ada
+952,953,Salih Omurtak
+953,954,Gazi Osman Paşa
+954,955,Nur
+955,956,Manavkuyu
+956,957,Org. Nafiz Gürman
+957,958,Kütükçü
+958,959,Karabiga Bld. (Yalı)
+959,960,Ragıp Bey
+960,961,Güzelbahçe
+961,962,Kumköy
+962,963,Yazıcızade
+963,964,Işıklı
+964,965,Göktürk
+965,966,Uludağ
+966,967,Kötekli
+967,968,Karabalçık
+968,969,Sazlıdere Köyü
+969,970,Kayacık
+970,971,Gelişim
+971,972,Korucuk
+972,973,Boğaz Mh.
+973,974,Cevher Dudayev
+974,975,Osmaniye
+975,976,Varlık
+976,977,Haseki Sultan
+977,978,Belek
+978,979,Yakuplu
+979,980,Millet
+980,981,Arnavutköy Merkez
+981,982,1 Nolu Bostancı
+982,983,Yenibosna Merkez
+983,984,Kadıköy Bld. (Özden)
+984,985,Altıntepe
+985,986,Mürsel Uluç
+986,987,Hisareyn Merkez
+987,988,Fahri Korutürk
+988,989,Haznedar
+989,990,Paşakonak
+990,991,Topçu
+991,992,Serdar
+992,993,Ataevler
+993,994,Pelitli
+994,995,Tüysüzler
+995,996,Bağlarçeşme
+996,997,Beşikkaya
+997,998,Kılınçarslan
+998,999,Tavşantepe
+999,1000,Sille Ak
+1000,1001,Değirmenaltı
+1001,1002,Bahçeşehir 2. Kısım
+1002,1003,Firuzköy
+1003,1004,Eminpaşa
+1004,1005,Kuzeykent
+1005,1006,Bayrambey
+1006,1007,Göynüklü
+1007,1008,Şehit Muhtar
+1008,1009,Kozyatağı
+1009,1010,İncivez
+1010,1011,Büyük Cami
+1011,1012,Kavacık
+1012,1013,Altınşehir
+1013,1014,Sularbaşı
+1014,1015,Tarabya
+1015,1016,Ozanlar
+1016,1017,Gölyüzü
+1017,1018,Sarayaltı
+1018,1019,Fetih
+1019,1020,Emek Adnan Menderes
+1020,1021,Aşkan
+1021,1022,Haydar Bey
+1022,1023,Yukarınohutlu
+1023,1024,Sultan Murat
+1024,1025,Sarıyakup
+1025,1026,Kirazlı
+1026,1027,Çerdiğin
+1027,1028,Yavuz
+1028,1029,Karaman
+1029,1030,Gülbahar
+1030,1031,Turgut Özal
+1031,1032,Köyceğiz
+1032,1033,Sapan Bağları
+1033,1034,Ardıçlı
+1034,1035,Nenehatun
+1035,1036,Halkalı Merkez
+1036,1037,Cennet
+1037,1038,Osman Kavuncu
+1038,1039,Denizevleri
+1039,1040,Tatlısu
+1040,1041,Kanlıca
+1041,1042,Mücahitler
+1042,1043,Mengene
+1043,1044,Altıparmak
+1044,1045,Erenler
+1045,1046,Çakmak
+1046,1047,Hacımimi
+1047,1048,Mehterçeşme
+1048,1049,23 Nisan
+1049,1050,Demirtaş Barbaros
+1050,1051,Saray Fatih
+1051,1052,Seymen
+1052,1053,Aşiti
+1053,1054,Akabe
+1054,1055,Sahabiye
+1055,1056,İncilipınar
+1056,1057,Mutlukent
+1057,1058,Eryaman
+1058,1059,Derviş Ali
+1059,1060,Yirmiikigün
+1060,1061,Azmimilli
+1061,1062,Ömercikler
+1062,1063,1.Murat
+1063,1064,Gevher Hatun
+1064,1065,Çekmece
+1065,1066,Kaytazdere Bld. (Kaytazdere)
+1066,1067,Yakacık Çarşı
+1067,1068,Büyükşehir
+1068,1069,Teşvikiye
+1069,1070,Hacımercan
+1070,1071,Balaç
+1071,1072,Şehabettinpaşa
+1072,1073,15 Temmuz
+1073,1074,Meydan
+1074,1075,Hüseyin Avni Ulaş
+1075,1076,Osman Gazi
+1076,1077,Buluklu
+1077,1078,Bostan
+1078,1079,Dere
+1079,1080,Karadeniz
+1080,1081,Çavuş
+1081,1082,Yeşilkent
+1082,1083,Balat
+1083,1084,Modern Evler
+1084,1085,Bahçesaray
+1085,1086,Sarıgöl
+1086,1087,Beylikdüzü OSB
+1087,1088,Konaklar
+1088,1089,Umut
+1089,1090,Armağanevler
+1090,1091,Küçük Bölcek
+1091,1092,Tokatköy
+1092,1093,İçerenköy
+1093,1094,İzzet Baysal
+1094,1095,2. İnönü
+1095,1096,Ertuğrulgazi
+1096,1097,Kazım Karabekir Paşa
+1097,1098,Karahan
+1098,1099,Gaziosmanpaşa
+1099,1100,Küçüksu
+1100,1101,Tabaklar
+1101,1102,Alanönü
+1102,1103,Nebiler
+1103,1104,Zekeriyaköy
+1104,1105,Akpınar
+1105,1106,Yavuztürk
+1106,1107,Abdi İpekçi
+1107,1108,Sarıgüllük
+1108,1109,Tahtakale
+1109,1110,Osman Yozgatlı
+1110,1111,Karaaslandede
+1111,1112,Caddebostan
+1112,1113,Yeniyalı
+1113,1114,Kınıklı
+1114,1115,Ufuktepe
+1115,1116,Aşağınohutlu
+1116,1117,Beşevler
+1117,1118,100. Yıl
+1118,1119,Koru Bld. (Atakent)
+1119,1120,Bebek
+1120,1121,Adil
+1121,1122,Büyükyoncalı
+1122,1123,Eşref Dinçer
+1123,1124,Çelebiler
+1124,1125,Talatpaşa
+1125,1126,Borazanlar
+1126,1127,Kırkpınar Hasanpaşa
+1127,1128,Mareşal Fevzi Çakmak
+1128,1129,Çavuşlu
+1129,1130,Zeytinköy
+1130,1131,Özalper
+1131,1132,Beşyol
+1132,1133,Şeyh Şamil
+1133,1134,Kadımehmet Efendi
+1134,1135,Akbayır
+1135,1136,Bin Evler
+1136,1137,3 Nolu Erdoğdu
+1137,1138,Peker
+1138,1139,Yunusemre
+1139,1140,Küçükbakkalköy
+1140,1141,Kirazca
+1141,1142,Güllük
+1142,1143,Emniyettepe
+1143,1144,Bilal Şahin
+1144,1145,Şükrüpaşa
+1145,1146,Küçükhasbahçe
+1146,1147,Demirtaş Cumhuriyet
+1147,1148,Hasköy
+1148,1149,Evliya Çelebi
+1149,1150,Kanarya
+1150,1151,Esenyurt
+1151,1152,Akmescit
+1152,1153,Korukent
+1153,1154,Şükrüçavuş
+1154,1155,Bahçeşehir 1. Kısım
+1155,1156,Gülevler
+1156,1157,Mimarsinanfatih
+1157,1158,Malazgirt
+1158,1159,Eskibağlar
+1159,1160,Kuzguncuk
+1160,1161,Ayvalı
+1161,1162,Başak
+1162,1163,Koçyazı
+1163,1164,Esenler
+1164,1165,Ali Ersoy
+1165,1166,Dörtyol
+1166,1167,Fındıklı
+1167,1168,Vişnelik
+1168,1169,Rüzgarlıbahçe
+1169,1170,Oğuzlar
+1170,1171,Çağdaşkent
+1171,1172,Rüstempaşa
+1172,1173,Deliklitaş
+1173,1174,Yunuseli
+1174,1175,Esenköy Bld. (Liman)
+1175,1176,Kadıköy Bld. (Kadıköy)
+1176,1177,Muhsin Çelebi
+1177,1178,İslambey
+1178,1179,Taşköprü
+1179,1180,Cumhuriye
+1180,1181,Hacıseyfettin
+1181,1182,Meydancık
+1182,1183,85. Yıl Cumhuriyet
+1183,1184,Kayıhan
+1184,1185,Tabakhane
+1185,1186,Güzelyalı Eğitim
+1186,1187,Beyazşehir
+1187,1188,Mimarsinandemokrasi
+1188,1189,Karapürçek
+1189,1190,Bağlıca
+1190,1191,Gümüşyaka
+1191,1192,Aşağı Kayabaşı
+1192,1193,Sarayyeri
+1193,1194,Davutpaşa
+1194,1195,Selçuklu
+1195,1196,Mahmutbey
+1196,1197,Barıştepe
+1197,1198,Kayışdağı
+1198,1199,Alavardı
+1199,1200,İkiztepe Köyü
+1200,1201,Marmara
+1201,1202,Bedir
+1202,1203,Çamurlu
+1203,1204,Bağlar
+1204,1205,Güzeltepe
+1205,1206,Sırabademler
+1206,1207,Tavşanlı
+1207,1208,Yeşilbahçe
+1208,1209,Taşoluk
+1209,1210,Serçeönü
+1210,1211,Güzelkent
+1211,1212,Velibaba
+1212,1213,Büyük Bölcek
+1213,1214,Bostancı
+1214,1215,1. Oruçgazi
+1215,1216,Çayyolu
+1216,1217,Yeşilköy
+1217,1218,Kılıçaslan
+1218,1219,Cedit
+1219,1220,Başaklı
+1220,1221,Yazır
+1221,1222,Bağbaşı
+1222,1223,Gevhernesibe
+1223,1224,Valide Sultan
+1224,1225,Bostanbaşı
+1225,1226,Şevketsümer
+1226,1227,Şeker
+1227,1228,Gazidükkan
+1228,1229,Kervansaray
+1229,1230,Cengizhan
+1230,1231,Yeniçağ
+1231,1232,Ahiosman
+1232,1233,Şemsipaşa
+1233,1234,Sulaklı
+1234,1235,Atalar
+1235,1236,Gesi Fatih
+1236,1237,Kabaoğlu
+1237,1238,Kuyuluk
+1238,1239,Drama
+1239,1240,Kusunlar
+1240,1241,İlkbahar
+1241,1242,Şahinali
+1242,1243,Yavuz Sultan Selim
+1243,1244,Muratbey
+1244,1245,Akat
+1245,1246,İlmiye
+1246,1247,Osman Yılmaz
+1247,1248,Işıkkent
+1248,1249,Abdurrahmangazi
+1249,1250,Şenlikköy
+1250,1251,Çırpan
+1251,1252,Sağlık
+1252,1253,Müftü
+1253,1254,Bolluca
+1254,1255,Kepez Bld. (Hamidiye)
+1255,1256,Ziya Gökalp
+1256,1257,Santral Garaj
+1257,1258,Yenipervane
+1258,1259,Ferhatpaşa
+1259,1260,Feridun Çelik
+1260,1261,Anadolu
+1261,1262,Ergazi
+1262,1263,Yavuz Sultan
+1263,1264,Topraklık
+1264,1265,Şifa
+1265,1266,Göktürk Merkez
+1266,1267,Mustafakemalpaşa
+1267,1268,Lalapaşa
+1268,1269,Taşpınar
+1269,1270,Fevzipaşa
+1270,1271,Çukurçayır
+1271,1272,Harmandere
+1272,1273,Kumköprü
+1273,1274,Aydınevler
+1274,1275,2 Nolu Erdoğdu
+1275,1276,Hacı Yusuflar
+1276,1277,Küçükkolpınar
+1277,1278,Şehitlik
+1278,1279,Karagümrük
+1279,1280,Hüdavendigar
+1280,1281,Bosna Hersek
+1281,1282,Salköprü
+1282,1283,Salahattin
+1283,1284,Kırmızıtoprak
+1284,1285,Paşakent
+1285,1286,Cevizlidere
+1286,1287,Kavaklıdere
+1287,1288,Kayadibi
+1288,1289,Çamlıevler
+1289,1290,Söğütlü
+1290,1291,Halıdere Yalı
+1291,1292,Cerrahpaşa
+1292,1293,Bağlaraltı
+1293,1294,Erciyesevler
+1294,1295,Gümüşçay
+1295,1296,Çünür
+1296,1297,Çengelköy
+1297,1298,Sahrayı Cedit
+1298,1299,Hasas
+1299,1300,Donanma
+1300,1301,Fatih Sultan Mehmet
+1301,1302,Kırkkonaklar
+1302,1303,Kamil Ocak
+1303,1304,Camiönü
+1304,1305,Sırasöğütler
+1305,1306,Süvari
+1306,1307,Başpınar
+1307,1308,Güngören
+1308,1309,Bulgurlu
+1309,1310,Kuzey
+1310,1311,Sazova
+1311,1312,Yeşildere
+1312,1313,İhsaniye Merkez
+1313,1314,Petroliş
+1314,1315,Cerrah
+1315,1316,Konutkent
+1316,1317,Karaköprü
+1317,1318,Fesleğen
+1318,1319,Kurtköy Yavuzselim
+1319,1320,Samanlı Köyü
+1320,1321,Gökmeydan
+1321,1322,Köseilyas
+1322,1323,Kılavuz
+1323,1324,Kernek
+1324,1325,Akevler
+1325,1326,Sümerevler
+1326,1327,Keklik Pınarı
+1327,1328,Ağaçcılar Köyü
+1328,1329,Başakşehir
+1329,1330,Uskumruköy
+1330,1331,Havzan
+1331,1332,Şerefiye
+1332,1333,Uyanış
+1333,1334,Şarkiye
+1334,1335,Nişantaş
+1335,1336,Yamanevler
+1336,1337,Esenkent
+1337,1338,Tabduk Emre
+1338,1339,Koca Sinan
+1339,1340,Gerzele
+1340,1341,Köşk
+1341,1342,Uzunmehmet
+1342,1343,Kardelen
+1343,1344,Balıkpazarı
+1344,1345,Saadetdere
+1345,1346,Maşukiye
+1346,1347,İdealtepe
+1347,1348,Elmasbahçeler
+1348,1349,Gençosman
+1349,1350,Zuhuratbaba
+1350,1351,Selimzade
+1351,1352,Keçeciler
+1352,1353,Beştelsiz
+1353,1354,Bademlik
+1354,1355,Yukarı Dudullu
+1355,1356,Hacıkaplanlar
+1356,1357,Alemdağ
+1357,1358,Hanlıköy
+1358,1359,Tepebaşı
+1359,1360,Altıntop
+1360,1361,Güney
+1361,1362,Altınkent
+1362,1363,Aşağı Eğlence
+1363,1364,Fuatmorel
+1364,1365,Bozkurt
+1365,1366,Tunalı
+1366,1367,Kısıklı
+1367,1368,İpek Yolu
+1368,1369,Erkmen Bld. (Cumhuriyet)
+1369,1370,Şarhöyük
+1370,1371,Çalıca Köyü
+1371,1372,Hamzaoğlu
+1372,1373,Nefise Sultan
+1373,1374,Yenihamam
+1374,1375,Pınartepe
+1375,1376,Şirinkent
+1376,1377,Dilaverbey
+1377,1378,Ali Kuşçu
+1378,1379,Odabaşı
+1379,1380,Demirkapı
+1380,1381,Cevizlik
+1381,1382,Tophane
+1382,1383,Arabacıalanı
+1383,1384,Çayırbaşı
+1384,1385,Sütlüce
+1385,1386,Ulubey
+1386,1387,Saitbey
+1387,1388,Hocaömer
+1388,1389,Kuşcağız
+1389,1390,Arifiye
+1390,1391,Zincirlikuyu
+1391,1392,Yenişafak
+1392,1393,Akse
+1393,1394,Tandoğan
+1394,1395,Atapark
+1395,1396,Murat Çeşme
+1396,1397,Mehmetçik
+1397,1398,Paşacık
+1398,1399,Şeyh Osman
+1399,1400,Yenibağlar
+1400,1401,Küçükkızılhisar
+1401,1402,Yeşilada
+1402,1403,Demirci
+1403,1404,İhsaniye
+1404,1405,Rabia Ana
+1405,1406,Sofular
+1406,1407,Bahçeleriçi
+1407,1408,Ahi Evran
+1408,1409,Derebahçe
+1409,1410,Hocacihan
+1410,1411,Değirmenönü
+1411,1412,Kazımiye
+1412,1413,Uzun Mustafa
+1413,1414,Mavigöl
+1414,1415,Kiremitçi
+1415,1416,Ümit
+1416,1417,Düzağaç
+1417,1418,Elperek
+1418,1419,Kocasinan
+1419,1420,Karamanlı
+1420,1421,Kentkoop
+1421,1422,Kuleli
+1422,1423,Yukarı Yahyalar
+1423,1424,Hacısadık
+1424,1425,Göl
+1425,1426,Güvercintepe
+1426,1427,Çolaklı
+1427,1428,Gaybiefendi
+1428,1429,Andiçen
+1429,1430,Necip Fazıl
+1430,1431,Kızılcaşar
+1431,1432,Taşdelen
+1432,1433,Ekin
+1433,1434,Çalı
+1434,1435,Kuvvetli
+1435,1436,Şenlik
+1436,1437,82 Evler
+1437,1438,Eskikale
+1438,1439,Boztepe
+1439,1440,Kosova
+1440,1441,Alibeyli
+1441,1442,Emirgan
+1442,1443,Köprübaşı
+1443,1444,Kartaltepe
+1444,1445,İldem Cumhuriyet
+1445,1446,Yeni Sahra
+1446,1447,Minareliçavuş
+1447,1448,Akçaburgaz
+1448,1449,Balıkyolu
+1449,1450,Ergenekon
+1450,1451,Yeniyol
+1451,1452,Tuzluçayır
+1452,1453,Gürler
+1453,1454,Karatepe
+1454,1455,Saltuklu
+1455,1456,Kurtköy Dibektaş
+1456,1457,Saray
+1457,1458,Doğuş
+1458,1459,Tatlıkuyu
+1459,1460,Albay İbrahim Karaoğlanoğlu
+1460,1461,Ahmet Yesevi
+1461,1462,Çavuşlar
+1462,1463,Necip Fazıl Kısakürek
+1463,1464,Horozluhan OSB
+1464,1465,Seyitnizam
+1465,1466,Mimarsinanşirintepe
+1466,1467,Küçükyalı
+1467,1468,Emniyet Evleri
+1468,1469,Gazi Süleyman Paşa
+1469,1470,Tığcılar
+1470,1471,Hacı Hasanlı
+1471,1472,Örnek
+1472,1473,Prof. Dr. Ahmet Taner Kışlalı
+1473,1474,Paşabayır
+1474,1475,Doğuyaka
+1475,1476,Şahincili
+1476,1477,Esenşehir
+1477,1478,Sarıgazi
+1478,1479,Hoca Ahmet Yesevi
+1479,1480,5000 Evler 75. Yıl
+1480,1481,Eskisaray
+1481,1482,Hacıyusufmescit
+1482,1483,Zümrütevler
+1483,1484,Şafaktepe
+1484,1485,Melikşah
+1485,1486,Ali İhsan Paşa
+1486,1487,Kepez Bld. (Boğazkent)
+1487,1488,Çelebi
+1488,1489,Ahievran
+1489,1490,Alacaatlı
+1490,1491,Değirmendere Yalı
+1491,1492,Karaali
+1492,1493,Kirazlıdere
+1493,1494,Feneryolu
+1494,1495,Barbaros Hayrettin Paşa
+1495,1496,Sahipata
+1496,1497,Akkaya Köyü
+1497,1498,Halıkent
+1498,1499,Eyüp Sultan
+1499,1500,Tepekum
+1500,1501,Tepealtı
+1501,1502,Yancıkçı Şahin
+1502,1503,Döngel
+1503,1504,Merkezefendi
+1504,1505,Ömer Nasuhi Bilmen
+1505,1506,Ferhuniye
+1506,1507,71 Evler
+1507,1508,Çilesiz
+1508,1509,Anıttepe
+1509,1510,Erzurum
+1510,1511,Halitpaşa
+1511,1512,Elmalıkent
+1512,1513,Kanuni
+1513,1514,Zembilli Ali Efendi
+1514,1515,Köroğlu
+1515,1516,Turgut Reis
+1516,1517,Yörük Köyü
+1517,1518,Kuyubaşı Köyü
+1518,1519,Kepez Bld. (Cumhuriyet)
+1519,1520,Ereğlikapı
+1520,1521,Etlik
+1521,1522,İvazpaşa
+1522,1523,Kepez
+1523,1524,Malkoçoğlu
+1524,1525,Yakacık
+1525,1526,Fatih Sultan
+1526,1527,Bucak
+1527,1528,Kurtoğlu
+1528,1529,Karakaya
+1529,1530,Kurtköy
+1530,1531,4 Temmuz
+1531,1532,Şehreküstü
+1532,1533,Kuloğlu
+1533,1534,Cevat Paşa
+1534,1535,Servi
+1535,1536,Caferağa
+1536,1537,Çaydaçıra
+1537,1538,Hacıkaymak
+1538,1539,Abbasağa
+1539,1540,Barutluk
+1540,1541,Şifahane
+1541,1542,Kayapa
+1542,1543,Gökkent
+1543,1544,Tunahan
+1544,1545,Taflan Merkez
+1545,1546,Anayurt
+1546,1547,4 Eylül
+1547,1548,Egekent
+1548,1549,Fenerbahçe
+1549,1550,Tevfik İleri
+1550,1551,İstiklal-Kurtpınar
+1551,1552,Eşrefpaşa
+1552,1553,Tantavi
+1553,1554,Marulcu
+1554,1555,Yılmaz
+1555,1556,Karahasanlı
+1556,1557,Asmalıevler
+1557,1558,Seyranbağları
+1558,1559,Sultaniye
+1559,1560,Çaldıran
+1560,1561,İncirköy
+1561,1562,Bülbülzade
+1562,1563,Fıstıklık
+1563,1564,İbni Melek
+1564,1565,Elvan
+1565,1566,Nine Hatun
+1566,1567,Saçaklızade
+1567,1568,Cevatpaşa
+1568,1569,Demirtaş Dumlupınar OSB
+1569,1570,Eski Habipler
+1570,1571,Baraj
+1571,1572,Yeşilpınar
+1572,1573,Karadonlar
+1573,1574,Değirmendere Merkez
+1574,1575,Karacaibrahim
+1575,1576,Sermet
+1576,1577,Taşpazar
+1577,1578,Akkonak
+1578,1579,Balibey
+1579,1580,Ziraat
+1580,1581,Tacin
+1581,1582,Gökevler
+1582,1583,Aslanbey
+1583,1584,Darüşşafaka
+1584,1585,Beştepe
+1585,1586,Abdullahpaşa
+1586,1587,Kırkpınar Tepebaşı
+1587,1588,Hıdırağa
+1588,1589,Alaaddin
+1589,1590,Acıbadem
+1590,1591,Ayaspaşa
+1591,1592,Yedişehitler
+1592,1593,Gelincik
+1593,1594,Gürsel
+1594,1595,Alpağutbey
+1595,1596,Dörtler
+1596,1597,Safa
+1597,1598,Kalkınma
+1598,1599,Kiremitocağı
+1599,1600,Beykent
+1600,1601,Eskicami-Ortacami
+1601,1602,Küpçüler
+1602,1603,Battalgazi
+1603,1604,Çenedağ
+1604,1605,Alikahya Atatürk
+1605,1606,Servergazi
+1606,1607,Fevzi Paşa
+1607,1608,Şehremini
+1608,1609,Örnektepe
+1609,1610,Demirtaşpaşa
+1610,1611,Nurtepe
+1611,1612,Ferhatbostan
+1612,1613,Hayrullah
+1613,1614,Agahefendi
+1614,1615,Zümrüt
+1615,1616,Aydınlı
+1616,1617,Kılıçali Paşa
+1617,1618,Ayvansaray
+1618,1619,Reşitpaşa
+1619,1620,Ahmetli
+1620,1621,Yeni Bayındır
+1621,1622,Doğanbey
+1622,1623,Efendibey
+1623,1624,Mimaroba
+1624,1625,Piyalepaşa
+1625,1626,Söğütlü Çeşme
+1626,1627,Silahtarağa
+1627,1628,Hürel
+1628,1629,Gökçek
+1629,1630,Hasanpaşa
+1630,1631,Hacı Yusuf
+1631,1632,İsmet Paşa
+1632,1633,Beşkavaklar
+1633,1634,Aşıkveysel
+1634,1635,Gülbaharhatun
+1635,1636,Altıevler
+1636,1637,Yükseltepe
+1637,1638,Mevlanakapı
+1638,1639,Işık
+1639,1640,Esertepe
+1640,1641,Raman
+1641,1642,8 Kasım
+1642,1643,Fevziçakmak
+1643,1644,Çiğdemtepe
+1644,1645,Güçlükaya
+1645,1646,Portakallık
+1646,1647,Zühtüpaşa
+1647,1648,Derbent
+1648,1649,Şirinköy
+1649,1650,Akşemseddin
+1650,1651,Kara Hacımusa
+1651,1652,Kumbaşı
+1652,1653,Musalla Bağları
+1653,1654,Erdoğan Akdağ
+1654,1655,Düğmeciler
+1655,1656,Tekeler
+1656,1657,Abdurrahman
+1657,1658,Çakırlar Yalı
+1658,1659,Telsiz
+1659,1660,Hacı Osmanlı
+1660,1661,Katip Mustafa Çelebi
+1661,1662,Akçaköy
+1662,1663,Çatma Mescit
+1663,1664,Acarlar
+1664,1665,Merkez Yeni
+1665,1666,Şeyh Sadrettin
+1666,1667,İntizam
+1667,1668,Gökalp
+1668,1669,Osmanlı
+1669,1670,Akdere
+1670,1671,Hasanağa
+1671,1672,Turgut
+1672,1673,Kırklar
+1673,1674,Telsizler
+1674,1675,Demirtaş Sakarya
+1675,1676,Pazarcık
+1676,1677,Nişancı
+1677,1678,Yukarı Dikmen
+1678,1679,Güldibi
+1679,1680,Dudullu OSB
+1680,1681,Yaka
+1681,1682,Belde
+1682,1683,Topselvi
+1683,1684,Altay
+1684,1685,Alipaşa
+1685,1686,Köseoğlu
+1686,1687,Kızılcıklı
+1687,1688,Ovaakça Çeşmebaşı
+1688,1689,Nusrettin
+1689,1690,İncirli
+1690,1691,Pelitlibağ
+1691,1692,Adem Yavuz
+1692,1693,Çakmaklar
+1693,1694,General Zeki Doğan
+1694,1695,Kabakoz
+1695,1696,Yenımahalle
+1696,1697,Yeşil Camii
+1697,1698,Mavikent
+1698,1699,Narlıkuyu
+1699,1700,Deliktaş
+1700,1701,Yeniköy Merkez
+1701,1702,2 Nolu Beşirli
+1702,1703,Demirtaş Dumlupınar
+1703,1704,Halıcıoğlu
+1704,1705,Demetevler
+1705,1706,Aksu
+1706,1707,Şehit Kubilay
+1707,1708,Oran
+1708,1709,Ekinci
+1709,1710,Başharık
+1710,1711,İlimtepe
+1711,1712,Yuvacık Yakacık
+1712,1713,Şeyhcui
+1713,1714,Güneşler Merkez
+1714,1715,Ayazma
+1715,1716,Buharaevler
+1716,1717,Karaca Uğurlu
+1717,1718,Fethiye
+1718,1719,Mimarsinanbahçelievler
+1719,1720,Kale
+1720,1721,Beyköy Bld. (Beytepe)
+1721,1722,Birlik
+1722,1723,Karaçayır
+1723,1724,Sinanoba
+1724,1725,Törekent
+1725,1726,Kılıçarslan
+1726,1727,Çamrak
+1727,1728,Yahyalar
+1728,1729,Ali Baba
+1729,1730,Cibali
+1730,1731,Balmumcu
+1731,1732,Yüzevler
+1732,1733,Çekirge
+1733,1734,Şentepe
+1734,1735,Diriliş
+1735,1736,Yalıköy
+1736,1737,Halaskargazi
+1737,1738,Güzeller
+1738,1739,Davraz
+1739,1740,Doğu
+1740,1741,Karakaş
+1741,1742,Çınardere
+1742,1743,Kireçburnu
+1743,1744,Kalaba
+1744,1745,Hızırpaşa
+1745,1746,Hatıp
+1746,1747,Ömerbey
+1747,1748,Çırçır
+1748,1749,Paşaköşkü
+1749,1750,Dolunay
+1750,1751,Ulukavak
+1751,1752,Havuzlar
+1752,1753,Yukarı
+1753,1754,Kalkancı
+1754,1755,Zeybek
+1755,1756,Bağlık
+1756,1757,Merve
+1757,1758,Mahsen
+1758,1759,Durali Alıç
+1759,1760,Hadımköy
+1760,1761,Yenice Köyü
+1761,1762,Gazikemal
+1762,1763,Orhan Gazi
+1763,1764,Tayakadın
+1764,1765,Odunluk
+1765,1766,Cami-İ Kebir
+1766,1767,Kasaplar
+1767,1768,Mustafapaşa
+1768,1769,Dodurga
+1769,1770,Parsana
+1770,1771,28 Haziran
+1771,1772,Erkilet Osman Gazi
+1772,1773,Umurbey Bld. (Umurbey)
+1773,1774,Köseköy
+1774,1775,Merdivenköy
+1775,1776,Koyunoğlu
+1776,1777,Erikli
+1777,1778,Esenboğa Merkez
+1778,1779,Selver
+1779,1780,Bademli
+1780,1781,Tece
+1781,1782,Akkum
+1782,1783,Şair Şevket
+1783,1784,Müftü Solakzade
+1784,1785,Saraylar
+1785,1786,Yavuzselim
+1786,1787,Alparslan
+1787,1788,Veysel Karani
+1788,1789,Keçili Köy
+1789,1790,Cihannüma
+1790,1791,Bahçeköy Merkez
+1791,1792,Tecde
+1792,1793,Mahmutpaşa
+1793,1794,Feritpaşa
+1794,1795,İstanbulluoğlu
+1795,1796,Gülcü
+1796,1797,İlyasköy
+1797,1798,Mersincik
+1798,1799,Uzunçiftlik
+1799,1800,Doğantepe
+1800,1801,Yarenler
+1801,1802,Aşağı Zaferiye
+1802,1803,Rauf Denktaş
+1803,1804,Sırakapılar
+1804,1805,Bereketler
+1805,1806,Hüsamettin Çelebi
+1806,1807,Çubuklu
+1807,1808,Hocahasan
+1808,1809,Saray Cumhuriyet
+1809,1810,Karadolap
+1810,1811,Abdülhamid Han
+1811,1812,Camiikebir
+1812,1813,K. Mustafa Paşa
+1813,1814,Kethüda
+1814,1815,Dikkaldırım
+1815,1816,Şefkat
+1816,1817,Şeyh Hamit
+1817,1818,Koşuyolu
+1818,1819,Anadolu Hisarı
+1819,1820,İncek
+1820,1821,Kemalöz
+1821,1822,Selimsultan
+1822,1823,Atatürk OSB
+1823,1824,Kumlubel
+1824,1825,Alişahane
+1825,1826,Minarecik
+1826,1827,15 Mayıs
+1827,1828,Seğmenler
+1828,1829,Gülyurt
+1829,1830,Çapanoğlu
+1830,1831,Süleyman Demirel
+1831,1832,Sabuni
+1832,1833,Piyade
+1833,1834,Arslanbey
+1834,1835,Baltalimanı
+1835,1836,Gazi Mustafa Kemalpaşa
+1836,1837,Remzi Oğuz Arık
+1837,1838,Aksinne
+1838,1839,Beyhekim
+1839,1840,Belkız
+1840,1841,Uluönder
+1841,1842,Tuzlugöl
+1842,1843,Kepeci
+1843,1844,Pazar
+1844,1845,Işıklar
+1845,1846,Yıldırım Hacı Sarraf
+1846,1847,Aydoğan
+1847,1848,Ehlibeyt
+1848,1849,Hatipköy
+1849,1850,Çiniliköy
+1850,1851,Davutdede
+1851,1852,Mehmet Ali Akman
+1852,1853,Aşağısoku
+1853,1854,Cengiz Topel
+1854,1855,Ekinoba
+1855,1856,Ulubatlı Hasan
+1856,1857,2. Sakarya
+1857,1858,Arnavutköy
+1858,1859,Emirbeyazıt
+1859,1860,Tozkoparan
+1860,1861,Kuştepe
+1861,1862,Ayazmana
+1862,1863,Tablakaya
+1863,1864,Soğukpınar
+1864,1865,Pirimehmet
+1865,1866,Şükraniye
+1866,1867,Mümine Hatun
+1867,1868,Hacıcelal
+1868,1869,Karakeçili
+1869,1870,Ortaçeşme
+1870,1871,Piriçelebi
+1871,1872,Abdülaziz
+1872,1873,Kireçhane
+1873,1874,Valide-i Atik
+1874,1875,Sakızağacı
+1875,1876,Hacı Kasım
+1876,1877,Yeni Doğan
+1877,1878,Ahmet Vefik Paşa
+1878,1879,Çimenlik
+1879,1880,Santral
+1880,1881,Yaşamkent
+1881,1882,Atmeydanı
+1882,1883,Marmaracık
+1883,1884,Sinanbey
+1884,1885,İğdebağları
+1885,1886,Selimiye
+1886,1887,İncirlik Cumhuriyet
+1887,1888,Kıran
+1888,1889,Çıtlakkale
+1889,1890,Örcün
+1890,1891,Yakut
+1891,1892,Muratdede
+1892,1893,Aktaş
+1893,1894,Vanimehmet
+1894,1895,Değirmiçem
+1895,1896,Bengisu
+1896,1897,Halil Rıfat Paşa
+1897,1898,Şehit Kansu Küçükateş
+1898,1899,Cedidiye
+1899,1900,Mermerdelen
+1900,1901,Vakıf
+1901,1902,General Kazım Özalp
+1902,1903,Erenköy Köyü
+1903,1904,Hanımınçiftliği
+1904,1905,Çevrik
+1905,1906,Kükürtlü
+1906,1907,Hacıhalil
+1907,1908,Karakavak
+1908,1909,Rasathane
+1909,1910,İspat Cami
+1910,1911,Yunuskent
+1911,1912,Kafkas
+1912,1913,Raufbey
+1913,1914,Yıldızevler
+1914,1915,Aşık Veysel
+1915,1916,Kadıköy
+1916,1917,Ahi Mesut
+1917,1918,Yağcılar
+1918,1919,Çayyurt
+1919,1920,Hacı Seyit
+1920,1921,Harım
+1921,1922,Kırcami
+1922,1923,Güllü Bağlar
+1923,1924,Yayalar
+1924,1925,İncesu Yalı
+1925,1926,Parseller
+1926,1927,Yenikale
+1927,1928,Barbaros Hayrettin
+1928,1929,Karlıbayır
+1929,1930,Doğancı
+1930,1931,Köprülü-Veysipaşa
+1931,1932,Beylerbeyi
+1932,1933,Çamlıtepe
+1933,1934,Tavşan Tepe
+1934,1935,Beşkuyu
+1935,1936,Kazımpaşa
+1936,1937,Gökkuşağı
+1937,1938,Körpeşler
+1938,1939,Dokuzkavaklar
+1939,1940,Şenevler
+1940,1941,Sokullu Mehmet Paşa
+1941,1942,Arapçeşme
+1942,1943,Kandilli
+1943,1944,Havaalanı
+1944,1945,Kazım Dirik
+1945,1946,Terakki
+1946,1947,Çakır
+1947,1948,Küplüce
+1948,1949,Ulu
+1949,1950,Şekerpınar
+1950,1951,Bayraklı
+1951,1952,İslampaşa
+1952,1953,Karacaahmet
+1953,1954,Küçükali
+1954,1955,Devrim
+1955,1956,Teşvikiye Bld. (Cumhuriyet)
+1956,1957,Rami Yeni
+1957,1958,Mehmet Vehbi
+1958,1959,Şehit Murat Demir
+1959,1960,Akpıyar
+1960,1961,Küçük Aymanas
+1961,1962,Demetgül
+1962,1963,Yarhasanlar
+1963,1964,Büyükesat
+1964,1965,Balkiraz
+1965,1966,Subaşı Bld. (Subaşı)
+1966,1967,Rami Cuma
+1967,1968,Zaviye
+1968,1969,Mamuriye
+1969,1970,Toygar
+1970,1971,Alpağut
+1971,1972,Kirazlık
+1972,1973,Çayırova
+1973,1974,Şemsitebrizi
+1974,1975,Kayabey
+1975,1976,Ovayenice
+1976,1977,Coğlaki
+1977,1978,Küplüpınar
+1978,1979,Camicedit
+1979,1980,Arapzade
+1980,1981,Gülabibey
+1981,1982,Mimarsinan OSB
+1982,1983,Acıdere
+1983,1984,Armağan İlci
+1984,1985,Kılıçdede
+1985,1986,Akköy Köyü
+1986,1987,Değirmenlikızık
+1987,1988,Hastane
+1988,1989,Bölücek
+1989,1990,Şehit Abdullah Çavuş
+1990,1991,Akçakoca
+1991,1992,Karacay
+1992,1993,Umurbey
+1993,1994,Oruçreis
+1994,1995,Susaklı
+1995,1996,Toroslar
+1996,1997,Özerler
+1997,1998,Atatepe
+1998,1999,Kavacık Subayevleri
+1999,2000,Burç
+2000,2001,Şehirgösteren
+2001,2002,Orhanbey
+2002,2003,Abdurrahman Gazi
+2003,2004,Evkaf
+2004,2005,Çiçekli
+2005,2006,Ayazağa
+2006,2007,Şehit Hüseyin Kıl
+2007,2008,Baruthane
+2008,2009,Peyami Safa
+2009,2010,Mahmut Çelebi
+2010,2011,Topağacı
+2011,2012,Darıcı
+2012,2013,Çukurbağ
+2013,2014,Yahyalı
+2014,2015,Yeşilevler
+2015,2016,Evka
+2016,2017,30 Ekim
+2017,2018,Mustafabeyli
+2018,2019,Alagöz Köyü
+2019,2020,Semerciler
+2020,2021,Ömerağa
+2021,2022,İlkyerleşim
+2022,2023,Hızır İlyas
+2023,2024,Yalım
+2024,2025,Çiftalan
+2025,2026,Hatip
+2026,2027,Aşağıkalamış
+2027,2028,Rahmiye
+2028,2029,Uluç
+2029,2030,Şerifali
+2030,2031,Şehitler Tepesi
+2031,2032,Ulaşlı
+2032,2033,Küçük Kayaş
+2033,2034,Akçalar
+2034,2035,Döşeme
+2035,2036,Akçaali
+2036,2037,Şenyuva
+2037,2038,Pazariçi
+2038,2039,Muslihittin
+2039,2040,Hekimbaşı
+2040,2041,Örnekevler
+2041,2042,Melikgazi
+2042,2043,Sille
+2043,2044,Abidinpaşa
+2044,2045,Aktarhüssam
+2045,2046,Seyrantepe
+2046,2047,Eskipazar
+2047,2048,Aralık
+2048,2049,Fidanlık
+2049,2050,Ulubatlıhasan
+2050,2051,Akgedik
+2051,2052,Avni Tolunay
+2052,2053,Çalılıöz
+2053,2054,Yaşar Kemal
+2054,2055,Camivasat
+2055,2056,Burgaz
+2056,2057,Karamusul Köyü
+2057,2058,İskender
+2058,2059,Şahinler
+2059,2060,Derecik
+2060,2061,Fırtına
+2061,2062,Rızaefendi
+2062,2063,Burhanlı Köyü
+2063,2064,Çambel
+2064,2065,Konaklı
+2065,2066,Sultanbağı
+2066,2067,Çanaklı
+2067,2068,Yeni Karaköy Köyü
+2068,2069,Halise Hatun
+2069,2070,Tufanpaşa
+2070,2071,Akyazı
+2071,2072,Karaburun
+2072,2073,Erkmen Bld. (Hürriyet)
+2073,2074,Saraçlar
+2074,2075,Mescit
+2075,2076,Büyük Şehsuvarbey
+2076,2077,Camiicedit
+2077,2078,Yaşar Doğu
+2078,2079,Demircili
+2079,2080,Yıldızlı
+2080,2081,Çerli
+2081,2082,Fırıncı
+2082,2083,Bala
+2083,2084,Halil Rıfatpaşa
+2084,2085,Elmaşehir
+2085,2086,Çarşıbaşı
+2086,2087,Efirli
+2087,2088,Saraçoğlu
+2088,2089,Avdal
+2089,2090,Hacı Ali Bey
+2090,2091,Fevzipaşa-Vehbibey
+2091,2092,Yukarı Gökdere Köyü
+2092,2093,Gökçealan
+2093,2094,Uzunoluk
+2094,2095,Alaettin
+2095,2096,Satılmışoğlu
+2096,2097,Kumyalı
+2097,2098,Aşağı Bağlar
+2098,2099,Muradiye Cami
+2099,2100,Karabiga Bld. (Zeytinlik)
+2100,2101,Dereiçi
+2101,2102,Yeşilyalı
+2102,2103,Alitaşı
+2103,2104,Beçin
+2104,2105,Zirvekent
+2105,2106,Cennetayağı
+2106,2107,Kocacami
+2107,2108,Başpınar OSB
+2108,2109,Altunkalem
+2109,2110,Altıgöz
+2110,2111,Mamure
+2111,2112,Çaylı
+2112,2113,Çınarlık
+2113,2114,Alaeddin
+2114,2115,Şazi Bey
+2115,2116,Sarıağa
+2116,2117,Kolejtepe
+2117,2118,Erkilet Çevril
+2118,2119,Yüzbaşılar
+2119,2120,Aşağıdereköy
+2120,2121,Nefsişarlı
+2121,2122,Kirazlıkçay
+2122,2123,Karakurt
+2123,2124,Kaymaklı
+2124,2125,Dürbinar
+2125,2126,İncedayı
+2126,2127,Kocadere
+2127,2128,Demircihalil Köyü
+2128,2129,Hamam
+2129,2130,Esenköy
+2130,2131,Bademdere Köyü
+2131,2132,Şarköy OSB
+2132,2133,Cami Atik
+2133,2134,Nefsipulathane
+2134,2135,Kapıcıbaşı
+2135,2136,Ahmet Çavuş Hayıtlı
+2136,2137,Akçaalan Köyü
+2137,2138,Ortahisar
+2138,2139,Hisarcık İbrahim Tennuri
+2139,2140,Uzunisa
+2140,2141,Şeyh
+2141,2142,Burmalı
+2142,2143,Ortaklar
+2143,2144,Karaçam
+2144,2145,Hanaybaşı
+2145,2146,Maarif
+2146,2147,Şahinburgaz
+2147,2148,Kileci
+2148,2149,Ostim
+2149,2150,Ümmühan
+2150,2151,İplik
+2151,2152,Belceağaç
+2152,2153,Kaşyukarı
+2153,2154,Sarıcalı
+2154,2155,Güce
+2155,2156,Buruk Cumhuriyet
+2156,2157,Torasan
+2157,2158,Hacı Musa
+2158,2159,Hacıevhat
+2159,2160,Kırveli
+2160,2161,Meydankapı
+2161,2162,Balıklıdere
+2162,2163,Kardeşler
+2163,2164,Sübeylidere
+2164,2165,Karacasu Ferhuş
+2165,2166,Çayır
+2166,2167,Kadı Burhanettin
+2167,2168,1 Nolu Erdoğdu
+2168,2169,Körliman
+2169,2170,Burunucu Köyü
+2170,2171,Bademler
+2171,2172,Kızılca
+2172,2173,Sarıhuğlar
+2173,2174,Sandıklı
+2174,2175,Ellibeşevler
+2175,2176,Hacıabti
+2176,2177,Kuşçu
+2177,2178,Türkeli
+2178,2179,Şamar
+2179,2180,Tuzcumurat
+2180,2181,Rüstem
+2181,2182,Hoşnudiye
+2182,2183,Şevketiye
+2183,2184,Limanköy
+2184,2185,Memiş
+2185,2186,Ayazkıyı
+2186,2187,Sarıcalar
+2187,2188,Bergama OSB
+2188,2189,Taşucu
+2189,2190,Obaalacami
+2190,2191,Madenli
+2191,2192,Bayındır
+2192,2193,Ataköy
+2193,2194,Güre Cumhuriyet
+2194,2195,Çıplaklı
+2195,2196,Hisarçandır
+2196,2197,Özbek
+2197,2198,Gazlıgöl Bld. (Fatih)
+2198,2199,Okçular
+2199,2200,Kıyıkışlacık
+2200,2201,Tahılpazarı
+2201,2202,Geyikbayırı
+2202,2203,Fahrettinpaşa
+2203,2204,Bektaş
+2204,2205,Demircikara
+2205,2206,Cikcilli
+2206,2207,Nizamettin
+2207,2208,Gürece
+2208,2209,Şerefler
+2209,2210,Petekli
+2210,2211,İğneada Bld. (Deniz)
+2211,2212,Meltem
+2212,2213,Göynük
+2213,2214,Kızılkeçili
+2214,2215,Yaylaköy
+2215,2216,Aratol İstiklal
+2216,2217,Yanıklar
+2217,2218,Alikahya Cumhuriyet
+2218,2219,Sedir
+2219,2220,Kargınkürü
+2220,2221,Zeytinlik Mh.
+2221,2222,Düğünyurdu
+2222,2223,Numune
+2223,2224,Kızlar Pınarı
+2224,2225,Numune Evler
+2225,2226,Kumbahçe
+2226,2227,Side
+2227,2228,Modernevler
+2228,2229,Akoluk
+2229,2230,Arıkbaşı
+2230,2231,Kocadere Köyü
+2231,2232,Savköy Bld. (Yukarı)
+2232,2233,Gülağzı
+2233,2234,Farilya
+2234,2235,Keykubat
+2235,2236,Kirişçiler
+2236,2237,Liman Sb
+2237,2238,Gaziömerbey
+2238,2239,Gözcüler
+2239,2240,Savaş
+2240,2241,Şarköy
+2241,2242,Cevat Şakir
+2242,2243,Kargıcak
+2243,2244,Ulucamii
+2244,2245,Sarımazı
+2245,2246,Altınova Sinan
+2246,2247,Kemikler
+2247,2248,Balcalı
+2248,2249,Çınarköy
+2249,2250,Türkkuyusu
+2250,2251,Serinyol
+2251,2252,Turunç
+2252,2253,Bahçıvan
+2253,2254,Arkum
+2254,2255,Tulumtaş
+2255,2256,Çakabey
+2256,2257,Meşelik
+2257,2258,Kapukargın
+2258,2259,İkitelli OSB
+2259,2260,Koruköy Köyü
+2260,2261,Karlıktepe
+2261,2262,Kepirli
+2262,2263,Duacı
+2263,2264,Yenişehir Mh.
+2264,2265,İncekum
+2265,2266,Gülbahçe
+2266,2267,Sorgun
+2267,2268,Bozbük
+2268,2269,Kızılağaç
+2269,2270,Kabakum
+2270,2271,Yeşilöz
+2271,2272,Fikirtepe
+2272,2273,Sarıcaeli Köyü
+2273,2274,Soğukkuyu
+2274,2275,Üçocak
+2275,2276,İslamsaray
+2276,2277,Bahadınlı
+2277,2278,Eskiçeşme
+2278,2279,Andifli
+2279,2280,Başıbüyük
+2280,2281,Sahilceylan
+2281,2282,Aşağıokçular
+2282,2283,Türkali
+2283,2284,Haydaroğlu
+2284,2285,Portakal
+2285,2286,Mehmet Nesih Özmen
+2286,2287,İslamlar
+2287,2288,Yeniyurt
+2288,2289,Dalyan Köyü
+2289,2290,Zeki Ayan
+2290,2291,Yamaçlı
+2291,2292,Erkilet Dere
+2292,2293,Kalkan
+2293,2294,Gümüldür Cumhuriyet
+2294,2295,Çetibeli
+2295,2296,Küçükbük
+2296,2297,Gümüldür Atatürk
+2297,2298,Tepeören
+2298,2299,Göcek
+2299,2300,Dörttepe
+2300,2301,Madenler
+2301,2302,Sucuzade
+2302,2303,İsa Bey
+2303,2304,Karacalar
+2304,2305,Dallıca
+2305,2306,Yeniköy Karaova
+2306,2307,Kargı
+2307,2308,Sarısalkım
+2308,2309,Kozlu Köyü
+2309,2310,Hacıveli
+2310,2311,Gerişburnu
+2311,2312,75. Yıl Cumhuriyet
+2312,2313,Villakent
+2313,2314,Kaşıkçı
+2314,2315,Hacımuratlı
+2315,2316,Karagedik
+2316,2317,Yakacık Yeni
+2317,2318,Nusretiye
+2318,2319,Bahçeyaka
+2319,2320,Güneyli Köyü
+2320,2321,Dağbeli
+2321,2322,Çamyuva
+2322,2323,Ildır
+2323,2324,Kuşpınar
+2324,2325,Sugözü
+2325,2326,Alefli
+2326,2327,Sazlı Köyü
+2327,2328,Yeşilovacık
+2328,2329,Gölcük
+2329,2330,Belpınar
+2330,2331,Yalınlı
+2331,2332,Şeyhli
+2332,2333,Yukarıkızılca Merkez
+2333,2334,Palamutbükü Adası
+2334,2335,Hacet
+2335,2336,Yeşil Bağlar
+2336,2337,Yeşilce
+2337,2338,Umurca
+2338,2339,Sarıçam
+2339,2340,Çağrışan
+2340,2341,Murathan
+2341,2342,Doğançay
+2342,2343,Mıdık
+2343,2344,Helvacı
+2344,2345,İmrenli
+2345,2346,Şambayadı
+2346,2347,Kumyaka
+2347,2348,Nilüferköy
+2348,2349,Turunçova
+2349,2350,Eğribucak
+2350,2351,Kırklarsırtı
+2351,2352,İslam
+2352,2353,Kocavezir
+2353,2354,Nişantepe
+2354,2355,Büyükeceli
+2355,2356,Akyar
+2356,2357,Pamuklar
+2357,2358,Uğurevler
+2358,2359,Akçapınar
+2359,2360,Dağlıoğlu
+2360,2361,Gülsuyu
+2361,2362,Beycik
+2362,2363,Karabörtlen
+2363,2364,Söğüt
+2364,2365,Milli Egemenlik
+2365,2366,Ocaklar
+2366,2367,Yenibağarası
+2367,2368,Kapaklı Köyü
+2368,2369,İpekli Köyü
+2369,2370,Hoca Paşa
+2370,2371,Uğurlu
+2371,2372,Emecik
+2372,2373,Gümüldür Fevzi Çakmak
+2373,2374,Tevfik Bey
+2374,2375,Yukarı Hisar
+2375,2376,Ekşiliyurt
+2376,2377,Şirinkapı
+2377,2378,Hoşköy
+2378,2379,Tuzcular
+2379,2380,Danişmend Gazi
+2380,2381,Kamaradere
+2381,2382,Damlar
+2382,2383,Balabanağa
+2383,2384,Bolayır Köyü
+2384,2385,Sahil Kent
+2385,2386,Kayaköy
+2386,2387,Dadaloğlu
+2387,2388,Kocavilayet
+2388,2389,Yavuzlar
+2389,2390,Mekan
+2390,2391,Karaçallı
+2391,2392,Kızılot
+2392,2393,Demirciköy
+2393,2394,Peksimet
+2394,2395,Kocapınar
+2395,2396,Kadıpaşa
+2396,2397,Çandır
+2397,2398,Eski Cami
+2398,2399,Hacıhasan
+2399,2400,Ali Fuat Erden
+2400,2401,Aşağı Girne Mh.
+2401,2402,Saip
+2402,2403,Yaylabağı Bld. (Esentepe)
+2403,2404,Belen
+2404,2405,Salacık
+2405,2406,Büyükpınar
+2406,2407,Aşağı Söğütönü
+2407,2408,Seyhan
+2408,2409,Kabasakal
+2409,2410,Dikmen
+2410,2411,B. Hayrettin Paşa
+2411,2412,Pınarlı
+2412,2413,Yeni Batı
+2413,2414,Keşefli
+2414,2415,Hamitler
+2415,2416,Pertev Paşa Mh.
+2416,2417,Adrasan
+2417,2418,Aşağı Hisar
+2418,2419,Kaptan Paşa
+2419,2420,Başak Adası
+2420,2421,Orhanlı
+2421,2422,Çağlarca
+2422,2423,Çatalköy Köyü
+2423,2424,Eğlenhoca
+2424,2425,Ağaçlıboyno
+2425,2426,Ulucami
+2426,2427,Macun
+2427,2428,Salkım Evler
+2428,2429,Bezkese
+2429,2430,Gökçeovacık
+2430,2431,Aşağıkızılca
+2431,2432,Yelten
+2432,2433,Uzuntarla
+2433,2434,Yukarı Pazarcı
+2434,2435,Yeni Erenköy Bucağı
+2435,2436,Ferahevler
+2436,2437,Karaağaçlı
+2437,2438,Gökdere
+2438,2439,Balbey
+2439,2440,Emiralem Merkez
+2440,2441,Rızaiye
+2441,2442,Zümrütova
+2442,2443,Kuşçuburun
+2443,2444,Aşağı
+2444,2445,Altıntepsi
+2445,2446,Şıhlar
+2446,2447,Taşağıl
+2447,2448,Büyükmandıra Bld. (Hatip)
+2448,2449,Denizköy
+2449,2450,Behram Köyü
+2450,2451,Yeşilce Köyü
+2451,2452,Marmara Mh.
+2452,2453,Paşa Alanı
+2453,2454,Akkaya
+2454,2455,Mürsel
+2455,2456,Paşabahçe
+2456,2457,Boğazkent
+2457,2458,Hobyar
+2458,2459,Kayalar Köyü
+2459,2460,Dipkarpaz Köyü
+2460,2461,Çakırlar
+2461,2462,Akbelen
+2462,2463,Arpaçsakarlar
+2463,2464,Sahilkent
+2464,2465,Aşağı Kepirce
+2465,2466,İnecik
+2466,2467,Kirmanlı
+2467,2468,Haraççı
+2468,2469,Datça
+2469,2470,Bozburun
+2470,2471,Taytan
+2471,2472,Aksaray
+2472,2473,Karabaş
+2473,2474,Çatalkaya
+2474,2475,Kuzucuk Köyü
+2475,2476,Mersinli
+2476,2477,Sarnıç
+2477,2478,Dikmen Köyü (Aşağı Dikmen Mh.)
+2478,2479,Kızlan
+2479,2480,Karaöz
+2480,2481,Tarım
+2481,2482,Fındıkpınarı
+2482,2483,Gökçeler
+2483,2484,Şehitmustafa
+2484,2485,Görele
+2485,2486,Engiz
+2486,2487,Gelemiş
+2487,2488,Macar
+2488,2489,Kuyucular
+2489,2490,Pazarlı Köyü
+2490,2491,Yukarıdereköy
+2491,2492,Akçakale
+2492,2493,İzkent
+2493,2494,Belenbaşı
+2494,2495,Kumbaba
+2495,2496,Ulupınar
+2496,2497,Boğazköy Köyü
+2497,2498,Akyar Köyü
+2498,2499,Gülderen
+2499,2500,Kocahasanlı
+2500,2501,Akdamlar
+2501,2502,Hunat
+2502,2503,Akyuva
+2503,2504,Bozalan
+2504,2505,Okurcalar
+2505,2506,Sarıkemer
+2506,2507,Aksaz
+2507,2508,Kavakdere
+2508,2509,Karaoğlanoğlu Mh.
+2509,2510,Cami Şerif
+2510,2511,Alpkent
+2511,2512,Evrenseki
+2512,2513,Dikmekavak
+2513,2514,Sasallı Merkez
+2514,2515,Müeyyetzade
+2515,2516,Bahçe
+2516,2517,Kumkuyu
+2517,2518,Yenigün Köyü
+2518,2519,Doğanay
+2519,2520,Edremit Mh.
+2520,2521,Egemenlik
+2521,2522,Ova
+2522,2523,Çamtepe
+2523,2524,Dağ
+2524,2525,Çakmaklı
+2525,2526,Bağören Köyü
+2526,2527,Hacıosmanlar
+2527,2528,Mandırlar
+2528,2529,Alpu
+2529,2530,Kuzdere
+2530,2531,Gülçavuş Köyü
+2531,2532,Aydınpınar
+2532,2533,Evrenleryavşı
+2533,2534,Akçiçek Köyü
+2534,2535,Evka-2
+2535,2536,Doğanköy Mh.
+2536,2537,Kırançiftliği
+2537,2538,Ortamahalle
+2538,2539,Caferli
+2539,2540,Lapta Köyü
+2540,2541,Tavşanlı Bld. (Fatih)
+2541,2542,Göçmenköy Mh.
+2542,2543,Dinek
+2543,2544,Küçükesat
+2544,2545,Hüseyin Okan Merzeci
+2545,2546,Emek Zekai Gümüşdiş
+2546,2547,Elmalı
+2547,2548,Limonlu
+2548,2549,Acar
+2549,2550,Kefken
+2550,2551,Ekincik
+2551,2552,Tekerek
+2552,2553,Altunizade
+2553,2554,Melenağzı Köyü
+2554,2555,Havuzlubahçe
+2555,2556,Sadıkpaşa
+2556,2557,Bayatbademleri
+2557,2558,Atlas
+2558,2559,Karasu Köyü
+2559,2560,Çukuryurt
+2560,2561,Yaylalı
+2561,2562,Yeni Sanayi
+2562,2563,Hacıaliler
+2563,2564,Haşimişcan
+2564,2565,Kalecik Mh.
+2565,2566,Şahkulu
+2566,2567,Lefke Bucağı (Gemikonağı Mh.)
+2567,2568,Hatipler
+2568,2569,Bafa
+2569,2570,Yeşilyurt Köyü
+2570,2571,Emirsultan
+2571,2572,Zeytinada
+2572,2573,Kaplan
+2573,2574,Kaymakçı
+2574,2575,Sırrıpaşa
+2575,2576,Gökçetepe Köyü
+2576,2577,Çıtlık
+2577,2578,Demirciler
+2578,2579,Boğaztepe Mh.
+2579,2580,Baklacı
+2580,2581,Güventepe
+2581,2582,Yenidodurga Köyü
+2582,2583,Piri Paşa
+2583,2584,Yarköy Köyü
+2584,2585,Karayolları
+2585,2586,Abdi Çavuş Mh.
+2586,2587,Kırıklar
+2587,2588,Çığlık
+2588,2589,Alacadağ
+2589,2590,Liman SB
+2590,2591,Gülbahçesi
+2591,2592,Çukurahmediye
+2592,2593,Yeni Şehir
+2593,2594,Hallaçlar
+2594,2595,Üngüt
+2595,2596,Tuzla Mh.
+2596,2597,Hamitköy
+2597,2598,Lala Mustafa Paşa Mh.
+2598,2599,Mezopotamya
+2599,2600,Asmalı Mescit
+2600,2601,Gökçebağ Köyü
+2601,2602,Dumlupınar Mh.
+2602,2603,Beşeylül
+2603,2604,Gümüşgöze
+2604,2605,Karacaköy
+2605,2606,İmaret Köyü
+2606,2607,Kökez
+2607,2608,Kızılay Mh.
+2608,2609,Küçükdikili
+2609,2610,Nalbantoğlu
+2610,2611,Alibeyköy
+2611,2612,Varsak Menderes
+2612,2613,Arslanlı
+2613,2614,Evka-6
+2614,2615,Halide Edip Adıvar
+2615,2616,Üçpınar
+2616,2617,Paşa
+2617,2618,Kayhan
+2618,2619,Yüksek
+2619,2620,Güllübağ
+2620,2621,Demirel
+2621,2622,Taşkınköy Mh.
+2622,2623,Gülyaka
+2623,2624,Gedik
+2624,2625,Sarıbelen Adası
+2625,2626,Karagözler
+2626,2627,Ozanköy Köyü
+2627,2628,Toprak Sarnıç
+2628,2629,Kabakça
+2629,2630,Paşadağ
+2630,2631,Cennetoğlu
+2631,2632,Güzelyaka
+2632,2633,Arslanbucak
+2633,2634,Ağlıboğaz
+2634,2635,Karlıtepe
+2635,2636,Gaziveren Köyü
+2636,2637,Hayrettinpaşa
+2637,2638,Güzle
+2638,2639,600 Evler
+2639,2640,Cevherizade
+2640,2641,Armutlu
+2641,2642,Hacı İshak
+2642,2643,Çağşak Köyü
+2643,2644,Kuzulimanı
+2644,2645,Hasırcılar
+2645,2646,Eski Hisar
+2646,2647,Hasyurt
+2647,2648,Öğümsöğüt
+2648,2649,Hattat Karahisar
+2649,2650,Yılmazlar
+2650,2651,İncili Pınar
+2651,2652,Acıdere OSB
+2652,2653,Ötüken Köyü
+2653,2654,Gazi İlyas
+2654,2655,Kazım Özalp
+2655,2656,Yukarı Bahçelievler
+2656,2657,Payallar
+2657,2658,Önerler
+2658,2659,Selami Ali
+2659,2660,Ece
+2660,2661,Emmioğlu
+2661,2662,Mormenekşe Mh.
+2662,2663,Haspolat Köyü
+2663,2664,Aşağı Pazarcı
+2664,2665,Sıratut
+2665,2666,Yangı
+2666,2667,Kalemler
+2667,2668,Derviş Paşa
+2668,2669,Seki
+2669,2670,Atatürk Plastik OSB
+2670,2671,Tomalar
+2671,2672,Elikesik
+2672,2673,Koyunevi Köyü
+2673,2674,Akçataş
+2674,2675,Mesir
+2675,2676,Yerbelen
+2676,2677,Dikmen Köyü (Yukarı Dikmen Mh.)
+2677,2678,Kurdali
+2678,2679,Altıayak
+2679,2680,Geçit
+2680,2681,Türkler
+2681,2682,Dağdibi
+2682,2683,Barcın
+2683,2684,Günaydın
+2684,2685,Bey
+2685,2686,Türkmenköy
+2686,2687,İnlice
+2687,2688,Aydın
+2688,2689,30 Ağustos Zafer
+2689,2690,Yemişlik
+2690,2691,Ahmediye Köyü
+2691,2692,Molla Gürani
+2692,2693,Atça
+2693,2694,Sultantepe
+2694,2695,Binbirdirek
+2695,2696,Kaplancık
+2696,2697,Sart
+2697,2698,Teferrüç
+2698,2699,Keremköy
+2699,2700,Ahmediye
+2700,2701,Altı Eylül
+2701,2702,Mukaddem
+2702,2703,İnalı
+2703,2704,Kiriş
+2704,2705,Eski Kuyumcular
+2705,2706,Emrez
+2706,2707,Hacıömerli
+2707,2708,Ballıkpınar
+2708,2709,Göldere
+2709,2710,Doburca
+2710,2711,Küçük Piyale
+2711,2712,İnsu
+2712,2713,Yeşil Ada
+2713,2714,Sarıbelen
+2714,2715,Yukarıçobanisa
+2715,2716,Namazgah
+2716,2717,Üzümlü
+2717,2718,Cambazlı
+2718,2719,Kılan Köyü
+2719,2720,Bucaklı
+2720,2721,Özlüce
+2721,2722,Oğlananası Atatürk
+2722,2723,Mergenli
+2723,2724,İnciraltı
+2724,2725,Sefaalan
+2725,2726,Akkapı
+2726,2727,Düzlerçamı
+2727,2728,Yarımburgaz
+2728,2729,Salbaş Esentepe
+2729,2730,Kurtköy Fatih
+2730,2731,Tekirova
+2731,2732,Bağdu
+2732,2733,Sultanköy
+2733,2734,Çukurova
+2734,2735,1. Kadriye
+2735,2736,Kayalar
+2736,2737,Turabey
+2737,2738,Avşa
+2738,2739,Mersin
+2739,2740,Baş
+2740,2741,Yazı
+2741,2742,Kemaliye
+2742,2743,Kahramanlar
+2743,2744,Gebeli
+2744,2745,Çilek
+2745,2746,Basınevleri
+2746,2747,2. Kadriye
+2747,2748,Meriç
+2748,2749,Doyran
+2749,2750,350 Evler
+2750,2751,Eskimeğri Adası
+2751,2752,Kooperatifler
+2752,2753,Tepeüstü
+2753,2754,Oğlananası Cumhuriyet
+2754,2755,Dutluca
+2755,2756,Bereket
+2756,2757,Durantaş
+2757,2758,Karacaoğlan
+2758,2759,Taşköprü Bld. (Taşköprü Yeni)
+2759,2760,Şehitekrem
+2760,2761,Mithat Toroğlu
+2761,2762,Bostancık
+2762,2763,Orhan
+2763,2764,Sarıdede
+2764,2765,Vadişehir
+2765,2766,Germir
+2766,2767,Yukarı Söğütönü
+2767,2768,İlbade
+2768,2769,Balkan
+2769,2770,Karacakaya
+2770,2771,Fethibey Bld. (Fatih)
+2771,2772,Medya
+2772,2773,Hacı Saki
+2773,2774,Yazlık Yeni
+2774,2775,Türközü
+2775,2776,Yücetepe
+2776,2777,Çıkınlar
+2777,2778,Becen
+2778,2779,Saraç İshak
+2779,2780,Binbirevler
+2780,2781,Adakale
+2781,2782,Çengeldere
+2782,2783,Atabeygazi
+2783,2784,Gedikkaya
+2784,2785,Aratol Bahçeli
+2785,2786,Akköprü
+2786,2787,Boğaz
+2787,2788,Reşat Bey
+2788,2789,Yediağaç
+2789,2790,Sütlüce Köyü
+2790,2791,Erciyes
+2791,2792,Samanlı
+2792,2793,Çukurambar
+2793,2794,Kemer Köprü
+2794,2795,Gülistanevler
+2795,2796,Odayeri
+2796,2797,Çukurhisar Yeni
+2797,2798,Emniyet
+2798,2799,Nasuh Akar
+2799,2800,Aybey
+2800,2801,Mutafoğlu
+2801,2802,Ferhatpaşa Sb
+2802,2803,Sultan Orhan
+2803,2804,Güneşevler
+2804,2805,Sarımeşe
+2805,2806,Mebusevleri
+2806,2807,Rumeli Hisarı
+2807,2808,2. Gündoğan
+2808,2809,Akçakese
+2809,2810,İşçi Blokları
+2810,2811,Emirli
+2811,2812,Yukarıyurtçu
+2812,2813,İnceğiz
+2813,2814,Nuriye
+2814,2815,Sinandede
+2815,2816,Otuziki Evler
+2816,2817,Boğazköy İstiklal
+2817,2818,Nişanca
+2818,2819,M. Alipaşa
+2819,2820,Çukur
+2820,2821,Menekşe
+2821,2822,Atikali
+2822,2823,Toklu
+2823,2824,Çiğdem
+2824,2825,Paşamescit
+2825,2826,Doğanevler
+2826,2827,Özevler
+2827,2828,Hankendi Köyü
+2828,2829,Diclekent
+2829,2830,Satıkadın
+2830,2831,Sultandere 75. Yıl
+2831,2832,Siyahser
+2832,2833,Nuribey Bld. (Mareşal Fevzi Çakmak)
+2833,2834,Medrese
+2834,2835,Kaletepe
+2835,2836,Medrese Ali Bey
+2836,2837,Koşukavak
+2837,2838,Kuva-İ Milliye
+2838,2839,Küçük Ayasofya
+2839,2840,Susuz
+2840,2841,Vezirçiftliği
+2841,2842,Demetlale
+2842,2843,Gaziosman Paşa
+2843,2844,Zaferimilli
+2844,2845,Küçük Sinekli
+2845,2846,Hasankendi Köyü
+2846,2847,Erler
+2847,2848,Ömerli
+2848,2849,Emirseyit Bld. (Güneşli)
+2849,2850,Kazımkarabekir
+2850,2851,Karamazak
+2851,2852,Beydağı
+2852,2853,Topkapı
+2853,2854,Serhat
+2854,2855,Ziyagökalp
+2855,2856,Avcılar Köyü
+2856,2857,İrfanlı
+2857,2858,Alcı
+2858,2859,Hızırtepe
+2859,2860,Balçık
+2860,2861,Karaahmetli
+2861,2862,Hacılar
+2862,2863,Mimar Sinan Merkez
+2863,2864,Hasan Varol
+2864,2865,Güneşli Kale
+2865,2866,Doğanlık
+2866,2867,Kaleyazısı
+2867,2868,Hacivat
+2868,2869,Topçam
+2869,2870,Ağcalı
+2870,2871,Hisarcık Bahçelievler
+2871,2872,Üniversiteler
+2872,2873,Arslanbey OSB
+2873,2874,Bahçeköy Yeni
+2874,2875,Hastahane
+2875,2876,Mütareke
+2876,2877,Ragıp Tüzün
+2877,2878,Bağcılar
+2878,2879,Celaliye
+2879,2880,Gökçeali
+2880,2881,Akbaba
+2881,2882,Hilal
+2882,2883,Kirazlıyalı
+2883,2884,Selahattin Eyyubi
+2884,2885,Şehitali
+2885,2886,Küçükçekmece İkitelli OSB
+2886,2887,Beyazıt
+2887,2888,Veliköy
+2888,2889,Cevizli Köyü
+2889,2890,Saimekadın
+2890,2891,Karasenir
+2891,2892,Karacaköy Merkez
+2892,2893,Savköy Bld. (Aşağı)
+2893,2894,Yahyabey
+2894,2895,Hisarcık Erciyes
+2895,2896,Mahmutşevketpaşa
+2896,2897,Şehit Cevdet Özdemir
+2897,2898,Çepni
+2898,2899,Ahmet Taner Kışlalı
+2899,2900,Işınlar
+2900,2901,Çayırköy
+2901,2902,Beyazıtpaşa
+2902,2903,Semerkant
+2903,2904,Velimeşe
+2904,2905,Altınpınar Köyü
+2905,2906,Bülbül
+2906,2907,Hüseyinağa
+2907,2908,Barbaros Hayrettinpaşa
+2908,2909,Şükran
+2909,2910,Harman
+2910,2911,Sidre
+2911,2912,Hüseyin Kahya
+2912,2913,Şıralık
+2913,2914,Cumaköy
+2914,2915,Emin Sinan
+2915,2916,Mimar Hayrettin
+2916,2917,Kıranardı Cumhuriyet
+2917,2918,Dinkçiler
+2918,2919,Cemil Meriç
+2919,2920,Ulugazi
+2920,2921,Atadönmez
+2921,2922,Ovaakça Merkez
+2922,2923,Kuruçeşme Fatih
+2923,2924,Eymir
+2924,2925,Şehit Cengiz Karaca
+2925,2926,Kuzey Yıldızı
+2926,2927,Sekiz Eylül
+2927,2928,Naci Çakır
+2928,2929,Selahaddin Eyyübi
+2929,2930,Güneşler Yeni
+2930,2931,Pürtelaş Hasan Efendi
+2931,2932,Demirlibahçe
+2932,2933,Kumluca
+2933,2934,Atakent Köyü
+2934,2935,Çöşnük
+2935,2936,Sepetlipınar
+2936,2937,Velimeşe OSB
+2937,2938,İzzetiye
+2938,2939,Nar Bld. (Baş)
+2939,2940,Osman Temiz
+2940,2941,Bayazıtlı
+2941,2942,Özgür
+2942,2943,Saraylı
+2943,2944,Aşağı Öveçler
+2944,2945,Seferşah
+2945,2946,Uzunyalı
+2946,2947,B. Mustafa Paşa
+2947,2948,Yıldızlar
+2948,2949,Malıköy
+2949,2950,Hasanbey
+2950,2951,Aşıkpaşa
+2951,2952,Eğriöz
+2952,2953,Neviye
+2953,2954,Tatlar
+2954,2955,Koşu
+2955,2956,Küçük Çamlıca
+2956,2957,Yazlık Merkez
+2957,2958,Muhsin Ertuğrul
+2958,2959,Tepeören OSB
+2959,2960,Ulu Kent
+2960,2961,Lalahan
+2961,2962,Okçu
+2962,2963,Gökçedere
+2963,2964,Subaşı Bld. (Denizgören)
+2964,2965,Yarımca
+2965,2966,Osmanefendi
+2966,2967,Kılıç Köyü
+2967,2968,Yenikonacık
+2968,2969,Çatalhüyük
+2969,2970,Anadolufeneri
+2970,2971,Akhisar
+2971,2972,Hacı Hasan
+2972,2973,Ulaşlı Yalı
+2973,2974,Ahlatlıbel
+2974,2975,Doğu Kent
+2975,2976,Vali İhsan Aras
+2976,2977,Karaosman
+2977,2978,Veliefendi
+2978,2979,Aladağ
+2979,2980,Alikahya Merkez
+2980,2981,Malıköy Anadolu OSB
+2981,2982,Akçağlayan
+2982,2983,1. Sakarya
+2983,2984,Büyükyıldız Köyü
+2984,2985,Binkonutlar
+2985,2986,Zeynep Kamil
+2986,2987,1200 Evler
+2987,2988,İmam Bakır
+2988,2989,Topçuoğlu
+2989,2990,Aktekke
+2990,2991,İskender Köyü
+2991,2992,Zeyrek
+2992,2993,Zincirli
+2993,2994,Ereğli
+2994,2995,Kümbet
+2995,2996,İncesu
+2996,2997,Akif İnan
+2997,2998,Taşlıdere
+2998,2999,Üçtutlar
+2999,3000,Akova
+3000,3001,Dereceören Köyü
+3001,3002,Yazlak
+3002,3003,Seramik
+3003,3004,Çiftepınarlar
+3004,3005,Boyacıoğlu
+3005,3006,Sakızköy Köyü
+3006,3007,Babademirtaş
+3007,3008,Süleymanlar
+3008,3009,Bereketzade
+3009,3010,Orduyeri
+3010,3011,Emirgazi
+3011,3012,Kaplıca
+3012,3013,Alanlı
+3013,3014,Çakırca
+3014,3015,Cevdet Paşa
+3015,3016,Abdülhamit Han
+3016,3017,Fidyekızık
+3017,3018,Çele
+3018,3019,Bağırganlı
+3019,3020,Gemilerçekeği
+3020,3021,Beyyazı Bld. (Cumhuriyet)
+3021,3022,Günalan
+3022,3023,Mekece
+3023,3024,Anadolu Kavağı
+3024,3025,Dağkent
+3025,3026,Hacılıçay
+3026,3027,2 Nolu Bostancı
+3027,3028,Caferiye
+3028,3029,Hançerli
+3029,3030,Gazitepe
+3030,3031,Mimar Kemalettin
+3031,3032,Yukarı Öveçler
+3032,3033,Hacı Akif
+3033,3034,Mimarsinankayapul
+3034,3035,Burgazada
+3035,3036,İzzet Paşa
+3036,3037,Paşabağı
+3037,3038,Dilek
+3038,3039,Elbasan
+3039,3040,Sıracevizler
+3040,3041,Hisariçi
+3041,3042,Karadenizliler
+3042,3043,Kazım Dirik-Turan
+3043,3044,Eskihisar
+3044,3045,Şeyh Bayram
+3045,3046,İcadiye
+3046,3047,Halife Sultan
+3047,3048,Sülüntepe
+3048,3049,Kiçiköy
+3049,3050,Bayraktepe
+3050,3051,Yeniimaret
+3051,3052,Mirzabey
+3052,3053,Hepkebirler
+3053,3054,Kıratlıoğlu
+3054,3055,Süksün Zafer
+3055,3056,Refahiye
+3056,3057,Kaleardı
+3057,3058,Çiftekavak
+3058,3059,Sümerler
+3059,3060,Yukarı Kayabaşı
+3060,3061,Kefevi
+3061,3062,Vali Mithat Bey
+3062,3063,Yamaçtepe
+3063,3064,Şahin Tepesi
+3064,3065,Yahya Kahya
+3065,3066,Lala Hüseyin Paşa
+3066,3067,Arapçiftliği
+3067,3068,Çat Bld. (Karşıyaka)
+3068,3069,Akbilek
+3069,3070,Selahiye
+3070,3071,Göveçlik
+3071,3072,Emek Fatih Sultan Mehmet
+3072,3073,Akören
+3073,3074,Kurtuluş OSB
+3074,3075,Çamlıkevler
+3075,3076,Zey Köyü
+3076,3077,Aşağı Dudullu
+3077,3078,Akdeğirmen
+3078,3079,Balat OSB
+3079,3080,Emirleryenicesi
+3080,3081,Denizciler
+3081,3082,Yavrucuk
+3082,3083,Aziz Mahmut Hüdayi
+3083,3084,Çöplü
+3084,3085,Ortabağlar
+3085,3086,Karasamsun
+3086,3087,Çamlıyayla
+3087,3088,Yediler
+3088,3089,Altıyüzevler
+3089,3090,Alibaba
+3090,3091,Abdulgaffar
+3091,3092,Cunudiye
+3092,3093,Arabayatağı
+3093,3094,Durak
+3094,3095,Memlik
+3095,3096,Alaattin
+3096,3097,Çopurlu
+3097,3098,Tuzpazarı
+3098,3099,Büyükoyumca
+3099,3100,Kalenderhane
+3100,3101,Zerzavatçı
+3101,3102,İbrahimpaşa
+3102,3103,Hamzabey
+3103,3104,Batı Sitesi
+3104,3105,Gülistan
+3105,3106,13 Mart
+3106,3107,Ihlamurkuyu
+3107,3108,Tınaztepe
+3108,3109,Sırapınar
+3109,3110,Küçücek Cumhuriyet
+3110,3111,Oymaağaç
+3111,3112,Kemankeş Karamustafa Paşa
+3112,3113,Gazi Kemal
+3113,3114,Aydınlı-İstanbul Ay OSB
+3114,3115,Alaaddinbey
+3115,3116,Düğerek
+3116,3117,Yiğitali
+3117,3118,Koparan
+3118,3119,Denizçalı Köyü
+3119,3120,Mansurdede
+3120,3121,Eğriköprü
+3121,3122,Ostim OSB
+3122,3123,Kıranardı Fatih
+3123,3124,Seyitgazi
+3124,3125,Önder
+3125,3126,Telafer
+3126,3127,Kestaneci
+3127,3128,Beyazlar
+3128,3129,Akmeşe Cumhuriyet
+3129,3130,Kırmacı
+3130,3131,Ulaşlı Yavuz Sultan Selim
+3131,3132,Hacı Osman
+3132,3133,Malta
+3133,3134,İsmetiye
+3134,3135,Hacıoğlu
+3135,3136,Abdullah Paşa
+3136,3137,Doğuhadimi
+3137,3138,Buğday Pazarı
+3138,3139,Bağlum Güzelyurt
+3139,3140,Altıağaç
+3140,3141,Zabıtan
+3141,3142,Yeniceköy
+3142,3143,Fuatpaşa
+3143,3144,Emrah
+3144,3145,Öveçler
+3145,3146,Kutlu
+3146,3147,Murtaza
+3147,3148,İbrahim Hakkı Konyalı
+3148,3149,Süleymanşah
+3149,3150,Kazım Orbay
+3150,3151,Hanlı Merkez
+3151,3152,Mirzan
+3152,3153,Yeşilırmak
+3153,3154,Bentbaşı
+3154,3155,Şahap Gürler
+3155,3156,Misket
+3156,3157,Gökmedrese
+3157,3158,Balgat
+3158,3159,Ekşioğlu
+3159,3160,Gülüç Bld. (Bekyeri)
+3160,3161,Perilikaya
+3161,3162,Dereboğazı
+3162,3163,Karsıyaka
+3163,3164,Peyas
+3164,3165,Gödene
+3165,3166,Arifbey
+3166,3167,Halilağa
+3167,3168,Ömer Avni
+3168,3169,Karaciğan
+3169,3170,Metin Akkuş
+3170,3171,Veliahmet
+3171,3172,Hüseyingazi
+3172,3173,Ekmekkoçu
+3173,3174,Kirazlimanı
+3174,3175,Fevzioğlu
+3175,3176,Mehtap
+3176,3177,İleri
+3177,3178,Şeker Evleri
+3178,3179,Mengüceli
+3179,3180,Gap
+3180,3181,Dursunlu
+3181,3182,Kurtdere
+3182,3183,Kutludüğün
+3183,3184,Runguşpaşa
+3184,3185,Nakipoğlu
+3185,3186,Akyol
+3186,3187,Sultan Abdülhamit
+3187,3188,Canbalı
+3188,3189,Kayalık
+3189,3190,Afyonkarahisar OSB
+3190,3191,Alemdar
+3191,3192,Haydar Çavuş
+3192,3193,Nail Bey
+3193,3194,Alifuatpaşa
+3194,3195,Kaşıkcıbağları
+3195,3196,Sekiçeşme
+3196,3197,Dedekorkut
+3197,3198,Aydınlık
+3198,3199,Hasaneyn
+3199,3200,Kayacıkaraplar
+3200,3201,Çağdaş
+3201,3202,Pamucak
+3202,3203,Alacakapı
+3203,3204,Demirkent Bld. (Menderes)
+3204,3205,Yeşilkaynak
+3205,3206,Mesih Paşa
+3206,3207,Erkilet Yukarı
+3207,3208,Şehit Bayram Gökmen
+3208,3209,Küçük Söğütlü
+3209,3210,Düvenci Bld. (Mimarsinan)
+3210,3211,Gündoğu
+3211,3212,Sahibiata
+3212,3213,Cemalgürsel
+3213,3214,Aşağı Çatak
+3214,3215,Örtülüpınar
+3215,3216,Çukurkuyu Bld. (Akşemsettin)
+3216,3217,Demirkent Bld. (Fatih)
+3217,3218,Hacılar Meydanı
+3218,3219,Akifpaşa
+3219,3220,60. Yıl
+3220,3221,Tuğ
+3221,3222,Mehmetpaşa
+3222,3223,Sarıcıoğlu
+3223,3224,Sürsürü
+3224,3225,Engindere
+3225,3226,Uludere
+3226,3227,Karagöz
+3227,3228,Bahçeli
+3228,3229,Çukurdere
+3229,3230,Hacı Bayram Veli
+3230,3231,Turgutalp
+3231,3232,İmamağa
+3232,3233,Karamustafapaşa
+3233,3234,Aydınkent
+3234,3235,Barış SB
+3235,3236,Musababa
+3236,3237,İslice
+3237,3238,Ulu Camii
+3238,3239,İsabey
+3239,3240,Şenkaya
+3240,3241,Uzundere
+3241,3242,Paşaköy
+3242,3243,İsali
+3243,3244,Sırali
+3244,3245,Şıkşık
+3245,3246,Pirler
+3246,3247,Hacılar Harmanı
+3247,3248,İncirlikuyu
+3248,3249,Kaptanpaşa
+3249,3250,İbn-İ Sina
+3250,3251,Akhan
+3251,3252,Ihlamurkent
+3252,3253,Akasya
+3253,3254,Beyler
+3254,3255,Erkilet Mehmet Akif Ersoy
+3255,3256,Kayaönü
+3256,3257,Hicret
+3257,3258,Karesi
+3258,3259,Derekızık
+3259,3260,Muzaffer Türkeş
+3260,3261,Başkarcı
+3261,3262,Küçükbey Bağı
+3262,3263,Sevindik
+3263,3264,Karabük
+3264,3265,Gazi Osmanpaşa
+3265,3266,Doğu Elagözlü
+3266,3267,Şamlı
+3267,3268,Çobanlı
+3268,3269,Beylikbağı
+3269,3270,Gülüç Bld. (Gülüç)
+3270,3271,Nasuhdede
+3271,3272,Beyköy Bld. (Cumhuriyet)
+3272,3273,Külhan
+3273,3274,Niyazi
+3274,3275,İpekyolu
+3275,3276,Ovaakça Santral
+3276,3277,Sancaklar
+3277,3278,Nasrettin
+3278,3279,Dedebalı
+3279,3280,İbrahimli
+3280,3281,Uzunharmanlar
+3281,3282,Kurna
+3282,3283,Ağalar
+3283,3284,Mehmet Tönge
+3284,3285,Sırameşeler
+3285,3286,Selam
+3286,3287,Öğümce
+3287,3288,Yılmazköy
+3288,3289,Toptepe
+3289,3290,Seyran
+3290,3291,Vefa
+3291,3292,İshaklı
+3292,3293,Hocataşkın
+3293,3294,Küçükahmet Köyü
+3294,3295,Şiremirçavuş
+3295,3296,Yıldırımbeyazıt
+3296,3297,20 Temmuz
+3297,3298,Kavaklı Bld. (Turist)
+3298,3299,Tepecikler
+3299,3300,Arızlı
+3300,3301,Karşı
+3301,3302,Kirazlıtepe
+3302,3303,Alibahadır
+3303,3304,İsmailbey
+3304,3305,Yüceler
+3305,3306,Taşköprü Bld. (Taşköprü)
+3306,3307,Orhun
+3307,3308,Kuyumcuhacıali
+3308,3309,Ulaş
+3309,3310,Ayazlı
+3310,3311,Kullar Yakacık
+3311,3312,Yorgancı
+3312,3313,Budak
+3313,3314,Burak
+3314,3315,Perakende
+3315,3316,Rumeli Kavağı
+3316,3317,Ağaköyü
+3317,3318,Karahüyük
+3318,3319,İkizce
+3319,3320,Çaybaşıyeniköy
+3320,3321,Çamoba Köyü
+3321,3322,Piremir
+3322,3323,Lalebahçe
+3323,3324,Yanık
+3324,3325,Boğaziçi Bld. (Şekerpınar)
+3325,3326,Kocanaip
+3326,3327,İzzetpaşa
+3327,3328,Yeşilyayla
+3328,3329,Kısırkaya
+3329,3330,Tavlusun
+3330,3331,Diliskelesi
+3331,3332,Barutçular
+3332,3333,Gülensu
+3333,3334,Doğancılı
+3334,3335,Çifteçeşmeler
+3335,3336,Mehmet Sanlı
+3336,3337,İlhanlı
+3337,3338,İbrikdere
+3338,3339,Beşiktaş
+3339,3340,Narlıtepe
+3340,3341,Sivritaş
+3341,3342,Ahmetbey Bld. (Gündoğu)
+3342,3343,Kurtdoğmuş
+3343,3344,Hazar
+3344,3345,Mara
+3345,3346,Kuyudüzü
+3346,3347,Varoş
+3347,3348,Güngörmez
+3348,3349,Acısu
+3349,3350,Çanakça
+3350,3351,Büyük Kılıçlı
+3351,3352,Sapakpınar
+3352,3353,Ptt Evleri
+3353,3354,Ballıca
+3354,3355,Pınarlar Köyü
+3355,3356,Bahçeağıl
+3356,3357,Bahtiyarbostan
+3357,3358,Kaleşah
+3358,3359,Sarıcapaşa
+3359,3360,Devegörmez
+3360,3361,Çorakçılar
+3361,3362,Üçbağlar
+3362,3363,Hacımiktat
+3363,3364,Yukarıakpınar Köyü
+3364,3365,Larende
+3365,3366,Nusratlı
+3366,3367,Meydanbaşı
+3367,3368,Küçüktekören Köyü
+3368,3369,Kırtepe
+3369,3370,Kaşlı
+3370,3371,Yurdoğlu
+3371,3372,Tuzcular Köyü
+3372,3373,Haşim Kılıç
+3373,3374,Bağdatlı
+3374,3375,Hasan Basri Çantay
+3375,3376,Elma Tepe
+3376,3377,Orhanlar
+3377,3378,Üç Eylül
+3378,3379,Tırnova
+3379,3380,Bademlidere
+3380,3381,İsmet Kaptan
+3381,3382,Hasan Karaağaç
+3382,3383,Kirazpınar
+3383,3384,Batı Hadimi
+3384,3385,Nar Bld. (Yeni)
+3385,3386,Aşıkköy
+3386,3387,Tahtalı
+3387,3388,Çatalarmut
+3388,3389,Ali Bekirli
+3389,3390,Başaran
+3390,3391,Akçağlan
+3391,3392,Mercimektepe
+3392,3393,Erikler Köyü
+3393,3394,Çilhane
+3394,3395,Ali Bey
+3395,3396,Saraycık
+3396,3397,Ardıçbeli
+3397,3398,Mollaarap
+3398,3399,Süleyman Şah
+3399,3400,Halıdere Yeni
+3400,3401,Sarayatik
+3401,3402,Aşağıeverek
+3402,3403,Fakülteler
+3403,3404,Erkilet General Emir
+3404,3405,Alleben
+3405,3406,Feneseyukarı
+3406,3407,Durugöl
+3407,3408,Balıkuyumcu
+3408,3409,Kamalı
+3409,3410,Kamer Hatun
+3410,3411,Cemalettin
+3411,3412,Eti
+3412,3413,Şehit Mustafa Gündoğdu
+3413,3414,Karargahtepe
+3414,3415,Akalar
+3415,3416,Seviller
+3416,3417,G. Kemal
+3417,3418,Alacahırka
+3418,3419,Kocataş
+3419,3420,Gökpınar
+3420,3421,İvedik OSB
+3421,3422,Hacıveyiszade
+3422,3423,Talaytepe
+3423,3424,Şahsüleyman
+3424,3425,Yüceyurt
+3425,3426,Mehmet Paşa
+3426,3427,Ataköy 3-4-11. Kısım
+3427,3428,Dörteylül
+3428,3429,Ahmet Turangazi
+3429,3430,Gazanfer
+3430,3431,Alacasuluk
+3431,3432,Teşvikiye Bld. (İstiklal)
+3432,3433,Yahşibey
+3433,3434,Üçlerbey
+3434,3435,Karamanoğlu Mehmet Bey
+3435,3436,Doğan
+3436,3437,Aşağı Yahyalar
+3437,3438,Gümüsçesme
+3438,3439,Ahmet Efendi
+3439,3440,Altuntabak
+3440,3441,Şehit Orhan Gök
+3441,3442,İlker
+3442,3443,Büyük Beybağı
+3443,3444,Hasandedemescit
+3444,3445,17 Ağustos
+3445,3446,Karaca
+3446,3447,Kırbağı
+3447,3448,Cemil
+3448,3449,Beyçelebi
+3449,3450,Derelitütüncü
+3450,3451,2. Oruçgazi
+3451,3452,Börekçiler
+3452,3453,Bıçkıbaşı Köyü
+3453,3454,Vicdaniye
+3454,3455,Paşabey
+3455,3456,Mergiç
+3456,3457,Kıbrısköy
+3457,3458,Emre
+3458,3459,Çeltek
+3459,3460,Koçakdede
+3460,3461,Güldiken
+3461,3462,Bayram Baba
+3462,3463,İbrahimağa
+3463,3464,1. Gündoğan
+3464,3465,Hacıhızır
+3465,3466,Küçükada
+3466,3467,İzmirli
+3467,3468,Seldeğirmeni
+3468,3469,Terzili
+3469,3470,Tuzkaya
+3470,3471,Aşık Seyrani
+3471,3472,İmamlar
+3472,3473,Aşağı Kirazca
+3473,3474,Hıdırbali
+3474,3475,Bahçelerüstü
+3475,3476,Gölbucağı
+3476,3477,Büyükkolpınar
+3477,3478,Kerim Dede
+3478,3479,Toplu Konut
+3479,3480,Çavuşbey
+3480,3481,Bahçebaşı
+3481,3482,Işıktepe OSB
+3482,3483,Eyüpoğlu
+3483,3484,Sarıkokmaz
+3484,3485,Ulaş OSB
+3485,3486,Yaramış
+3486,3487,Yeni Çamlıca
+3487,3488,Tahsin Ünal
+3488,3489,Hacısiyam
+3489,3490,İsfendiyar
+3490,3491,Karacaoğlu
+3491,3492,Kavaklar
+3492,3493,Taşbaşı
+3493,3494,Yaprak
+3494,3495,Fakıpaşa
+3495,3496,Yavruturna
+3496,3497,Olgunlar
+3497,3498,Recep Tayyip Erdoğan
+3498,3499,Halfettin
+3499,3500,Yeniçimşit
+3500,3501,Küçükminare
+3501,3502,Ok Meydanı
+3502,3503,Karahıdır
+3503,3504,Demircilerardı
+3504,3505,5 Nisan
+3505,3506,Ebiç Mevlana
+3506,3507,Ak Kent
+3507,3508,Çamlıbahçe
+3508,3509,Kirişçi
+3509,3510,Yenikaraman
+3510,3511,Tülbentli
+3511,3512,Yeşil Vadi
+3512,3513,Gedemen
+3513,3514,Beyyayla
+3514,3515,Erkilet Camiikebir
+3515,3516,Beypınar
+3516,3517,Gayret
+3517,3518,Kulaksız
+3518,3519,2. Anafartalar
+3519,3520,Bulak Köyü
+3520,3521,Ahiçelebi
+3521,3522,Sungurlu
+3522,3523,İnağzı
+3523,3524,Abdulhalik Renda
+3524,3525,Saadet
+3525,3526,Örtmeliönü
+3526,3527,Çıkrık Bld. (Erenler)
+3527,3528,Şeyhali
+3528,3529,Esatoğlu
+3529,3530,Aslan Bey
+3530,3531,Yukarıçatak
+3531,3532,Keçiliköy OSB
+3532,3533,Merveşehir
+3533,3534,Büyükkayacık OSB
+3534,3535,Candaroğulları
+3535,3536,Kabe-i Mescid
+3536,3537,Küçük Mustafa
+3537,3538,Kökçüoğlu
+3538,3539,Kürkçüler
+3539,3540,Kavaklıbağ
+3540,3541,Hacı İsa Efendi
+3541,3542,Demirsubaşı
+3542,3543,Arifbilge
+3543,3544,Eminettin
+3544,3545,Ovaakça Eğitim
+3545,3546,Bayır
+3546,3547,Karaaslanüzümcü
+3547,3548,Muttalip Orta
+3548,3549,Ayşebacı
+3549,3550,Ağızörengüney Köyü
+3550,3551,Değirmenler
+3551,3552,Yukarıkirazca
+3552,3553,Seyit Ahmet
+3553,3554,Boynuyoğun
+3554,3555,Karakeçili Köyü
+3555,3556,Cudi
+3556,3557,Ağva Merkez
+3557,3558,Hasanoğlan Fatih
+3558,3559,Çeşmedamı
+3559,3560,Karakulak
+3560,3561,8 Şubat
+3561,3562,İnciksuyu
+3562,3563,Hatuniye
+3563,3564,Ahmetpaşa
+3564,3565,Çalıkuşu
+3565,3566,Demirtepe Köyü
+3566,3567,Kazukoğlu
+3567,3568,Akcami
+3568,3569,Gazi Paşa
+3569,3570,Karaaslan Aybahçe
+3570,3571,Akınlar
+3571,3572,Beyazkent
+3572,3573,Güneyaşağı
+3573,3574,Sancaktar
+3574,3575,Çaydüzü
+3575,3576,Örenli
+3576,3577,Kırçuval
+3577,3578,Demirkent Bld. (Osmanlı)
+3578,3579,Ataköy 1. Kısım
+3579,3580,152 Evler
+3580,3581,Mimarsinandere
+3581,3582,Yuvaköy
+3582,3583,Gazi Osman Paşa OSB
+3583,3584,Ali Hikmet Paşa
+3584,3585,Necmettin Erbakan
+3585,3586,Ekrem Orhon
+3586,3587,Yıldız Bld. (Fatih)
+3587,3588,Hafiziye
+3588,3589,Kocahıdır
+3589,3590,Hayriye
+3590,3591,Gazi Mustafa Kemal Paşa OSB
+3591,3592,Bolaman
+3592,3593,Han
+3593,3594,Ferhadiye
+3594,3595,Selçukbey
+3595,3596,Cinge
+3596,3597,Hasandede Köyü
+3597,3598,Hocaahmet
+3598,3599,Köseler
+3599,3600,Yakakent
+3600,3601,Sarıağıl
+3601,3602,Defterdar
+3602,3603,Şehit Kemal Işıldak
+3603,3604,Büyük Hüseyinbey
+3604,3605,Yunuslu
+3605,3606,Karaelmas
+3606,3607,Kahvelipınar
+3607,3608,Cebrail
+3608,3609,Burhan
+3609,3610,Sülübey
+3610,3611,Hacınabi
+3611,3612,Fenari
+3612,3613,Çardak Bld. (Gaziyakupbey)
+3613,3614,Çayırhisar
+3614,3615,Hacı Mütahir
+3615,3616,Havutlu
+3616,3617,Hacıbalı
+3617,3618,Bamyasuyu
+3618,3619,Hacı İlbey
+3619,3620,Karaisalı
+3620,3621,Selimbey
+3621,3622,Kavaklıönü
+3622,3623,Yeni Siteler
+3623,3624,Binbaşı Reşatbey
+3624,3625,Üçsaray
+3625,3626,Çıksorut
+3626,3627,Esenbey
+3627,3628,Kurudere
+3628,3629,Simani
+3629,3630,Büyükkarıştıran Bld. (Yeni)
+3630,3631,Feneseaşağı
+3631,3632,Buğdaylı
+3632,3633,Ahmetefendi
+3633,3634,Karacadağ
+3634,3635,Cirikpınar
+3635,3636,Mustafa Paşa
+3636,3637,Yeniyayla
+3637,3638,Kaledere
+3638,3639,Pulur
+3639,3640,Küçük Kovanağzı
+3640,3641,Yapracık
+3641,3642,Kırcaali
+3642,3643,Doğancıbağları
+3643,3644,Büyükcami
+3644,3645,Çakallar
+3645,3646,Has Hoca
+3646,3647,Büyük Sinan
+3647,3648,Osmançavuş
+3648,3649,Esenyer
+3649,3650,Selahaddin-i Eyyubi
+3650,3651,Evciler
+3651,3652,Taşhane
+3652,3653,Keçeci
+3653,3654,Kozluca
+3654,3655,Akçaşehir Bld. (Fatih)
+3655,3656,Esenbağlar
+3656,3657,Vadi
+3657,3658,Şehit Üsteğmen Hasan Şahan
+3658,3659,Düz
+3659,3660,Aşağıçobanisa
+3660,3661,Fenk
+3661,3662,Kuşdilli
+3662,3663,Malkoç
+3663,3664,Yeni Ömerli
+3664,3665,Elmalıdere
+3665,3666,Reyhan
+3666,3667,Agah Efendi
+3667,3668,Merkez Beydağı
+3668,3669,Tilmerc
+3669,3670,Gökçebostan
+3670,3671,Konuralp
+3671,3672,Yeşildirek
+3672,3673,Dağeteği
+3673,3674,Bedrettin
+3674,3675,Doğanpınar
+3675,3676,Aşağıakpınar Köyü
+3676,3677,Uluçam
+3677,3678,Söğütözü
+3678,3679,Saraykent
+3679,3680,Halkapınar
+3680,3681,Aşağıkopuz Köyü
+3681,3682,Fetihtepe
+3682,3683,Karacaömer
+3683,3684,Fatıh Sultan Mehmet
+3684,3685,Sudurağı Bld. (Cumhuriyet)
+3685,3686,Dibekli Köyü
+3686,3687,Edincik
+3687,3688,Garipçe
+3688,3689,Topucak
+3689,3690,Karaoğlan
+3690,3691,Hacı Mustafa
+3691,3692,5000 Evler Cumhuriyet
+3692,3693,Bağdere Köyü
+3693,3694,Sultan Fatih
+3694,3695,Koçak Köyü
+3695,3696,Aktaş Köyü
+3696,3697,Kiçikapı
+3697,3698,Hatipli Ketenciler Köyü
+3698,3699,Yaverpaşa
+3699,3700,Sefaşehir
+3700,3701,Beşparmak
+3701,3702,Bedestenlioğlu
+3702,3703,Paşakuyu
+3703,3704,Kayı
+3704,3705,Turkuaz
+3705,3706,Altunyurt
+3706,3707,Abdurrahmanlı Köyü
+3707,3708,Katip Kasım
+3708,3709,Çardak Bld. (Tekke)
+3709,3710,Şair Nabi
+3710,3711,Türkiye Petrolleri
+3711,3712,Haceloğlu
+3712,3713,Ferahimşalvuz
+3713,3714,Yeşilyuva
+3714,3715,Molla Hüsrev
+3715,3716,Pirömer
+3716,3717,Gülük
+3717,3718,Aygören
+3718,3719,Mahmut Şevket Paşa
+3719,3720,Mustafa Asım Köksal
+3720,3721,Merkezköy
+3721,3722,Doğankent Kışla
+3722,3723,Günaltay
+3723,3724,Ekrem Çetin
+3724,3725,Emirefendi
+3725,3726,Denizhan
+3726,3727,Çamoba
+3727,3728,Sancaklıbozköy
+3728,3729,Hilalkent
+3729,3730,Akçatepe
+3730,3731,Karacaören
+3731,3732,Kabakoz OSB
+3732,3733,Yeniyörük
+3733,3734,Aydınpınar Köyü
+3734,3735,Balıklı
+3735,3736,Subaşı Bld. (Altınkent)
+3736,3737,Şehit Cengiz Topel
+3737,3738,Hasırcıoğlu
+3738,3739,Arka Topraklık
+3739,3740,Tacettin Veli
+3740,3741,Terzibayırı
+3741,3742,Hidayet
+3742,3743,Yenipınar
+3743,3744,Karagöl
+3744,3745,Esbelli
+3745,3746,Küçükyenice
+3746,3747,Akdoğan Bucağı (Türkmenköy Mh.)
+3747,3748,Ortahopa
+3748,3749,Karaer
+3749,3750,Kabiller
+3750,3751,Hacı Bayram
+3751,3752,Gebeceler Bld. (İstiklal)
+3752,3753,Kutlubey
+3753,3754,İmaret
+3754,3755,Balhasan
+3755,3756,Saraçlı
+3756,3757,İlyas
+3757,3758,İnönü Gebze Güzeller OSB
+3758,3759,Kındam
+3759,3760,Köme
+3760,3761,Ekinyolu Köyü
+3761,3762,Yetmiş Evler
+3762,3763,Agah Ateş
+3763,3764,Hocasüleyman
+3764,3765,Karanfil
+3765,3766,Bahçeli Evler
+3766,3767,İnköy
+3767,3768,Yenisığırcı
+3768,3769,Kalabaklı Köyü
+3769,3770,Şahin Özbilen
+3770,3771,Muhacirosman
+3771,3772,Dallıca Köyü
+3772,3773,Toprakdeğirmeni
+3773,3774,Dedeoğlu Köyü
+3774,3775,Dairecep
+3775,3776,Hacettepe
+3776,3777,Kunduzhan
+3777,3778,Şahin
+3778,3779,Karapınar OSB
+3779,3780,Geçit Bld. (Munzur)
+3780,3781,İvedikköy
+3781,3782,Yenibahçe
+3782,3783,Seyrani
+3783,3784,Altınevler
+3784,3785,Deliklikaya
+3785,3786,Aşağı Dikmen
+3786,3787,Tabiye
+3787,3788,Girveli
+3788,3789,Cırgalan
+3789,3790,Saray Bosna
+3790,3791,Ağaçlı
+3791,3792,Keli
+3792,3793,Fırınönü
+3793,3794,Ziyaret Bld. (Aşağı)
+3794,3795,Kılavuzlu
+3795,3796,Bozdağ
+3796,3797,Umurlu
+3797,3798,Dışkayaköyü
+3798,3799,Duaçınarı
+3799,3800,Gülseren
+3800,3801,25 Mart
+3801,3802,Durasıllı
+3802,3803,Karatekin
+3803,3804,Caferbey
+3804,3805,Sarıömer Köyü
+3805,3806,Dabakhane
+3806,3807,Cinler
+3807,3808,Mamuriyet
+3808,3809,Erkilet 100. Yıl
+3809,3810,Şamlar
+3810,3811,Korubaşı
+3811,3812,Urgan
+3812,3813,Hüseyin Onbaşı
+3813,3814,Gazibey
+3814,3815,Kızılkara
+3815,3816,Demirçevre
+3816,3817,Yazıkonak Bld. (Cumhuriyet)
+3817,3818,Dink
+3818,3819,Gündüzbey
+3819,3820,Ladikli
+3820,3821,Turanköy
+3821,3822,Ahmet Kuddusi
+3822,3823,Armağan
+3823,3824,Karahayıt
+3824,3825,Tavşan
+3825,3826,Şinasi
+3826,3827,Bulacık Köyü
+3827,3828,Duraklı
+3828,3829,Ön Cebeci
+3829,3830,Eroğlan
+3830,3831,Osmanbaba
+3831,3832,Kışla Saray
+3832,3833,Ortaalan
+3833,3834,Gazi Kemal Paşa
+3834,3835,Cünürye
+3835,3836,İşhanı Köyü
+3836,3837,Yemişli
+3837,3838,Akıncı
+3838,3839,Tacı Ahmet
+3839,3840,İmamköy
+3840,3841,Beğendik Bld. (Beykent)
+3841,3842,Medar
+3842,3843,Bostancılı Köyü
+3843,3844,Ekinciler
+3844,3845,Çimenli
+3845,3846,Ahishavi
+3846,3847,Yenipazar
+3847,3848,Maşuk
+3848,3849,Akyazı Köyü
+3849,3850,Namıkkemal
+3850,3851,Göreme Bld. (Aydınlı-Orta)
+3851,3852,Büyüktaşhane
+3852,3853,Turunçlu
+3853,3854,Kalfa
+3854,3855,Çekirdekli
+3855,3856,Fabrika
+3856,3857,Helvacıoğlu
+3857,3858,Gerenkova
+3858,3859,Ayazini Köyü
+3859,3860,Ocak Köyü
+3860,3861,Üçkuyu
+3861,3862,Kemerhisar Bld. (Cumhuriyet)
+3862,3863,Çayırlı Köyü
+3863,3864,Eyüpsultan
+3864,3865,Hekimzade
+3865,3866,Bulak
+3866,3867,Küçükkum
+3867,3868,Eskiziraatli
+3868,3869,Tekye
+3869,3870,Soğanyemez
+3870,3871,7 Mart
+3871,3872,Arslanpaşa
+3872,3873,Hüsrev Paşa
+3873,3874,Yenicami
+3874,3875,Kayseri OSB
+3875,3876,Dedetaşı
+3876,3877,Şeyh Hayran
+3877,3878,Doğantepe Köyü
+3878,3879,Çiğitzade
+3879,3880,Pirebi
+3880,3881,Çayağzı
+3881,3882,Altunsu
+3882,3883,Uzungöl
+3883,3884,Erikliman
+3884,3885,Yenidibek
+3885,3886,Dulkadiroğlu
+3886,3887,Aslanpaşa
+3887,3888,Burunucu
+3888,3889,Sakabaşı
+3889,3890,Akçaova
+3890,3891,Şeyh Şamil OSB
+3891,3892,Yalnızbağ Bld. (Mimar Sinan)
+3892,3893,Bademli Köyü
+3893,3894,Şehit Nazımbey
+3894,3895,Kurudere Köyü
+3895,3896,Erkmen Bld. (Fevzi Çakmak)
+3896,3897,Hasbahçe
+3897,3898,Ülkü
+3898,3899,Akçakale Köyü
+3899,3900,Nizamiye
+3900,3901,Mecidiye Köyü
+3901,3902,Sundura
+3902,3903,Park
+3903,3904,Devlet
+3904,3905,Akhisar Köyü
+3905,3906,Şevkiye
+3906,3907,Zekibey
+3907,3908,Kaplıkaya
+3908,3909,Gölevi
+3909,3910,Karakoyunlu
+3910,3911,Bölme Bld. (Karakuyu)
+3911,3912,Kıyıköy Bld. (Güven)
+3912,3913,Raşitbey
+3913,3914,Sarıkadı Köyü
+3914,3915,Döşemedibi
+3915,3916,Küçükcami
+3916,3917,Üreğil
+3917,3918,Kavakköy Bld. (Hürriyet)
+3918,3919,Çeşme
+3919,3920,Sarıağaç
+3920,3921,Yeşil Pınar
+3921,3922,Pınarbaşı OSB
+3922,3923,Hamambaşı
+3923,3924,Keramet
+3924,3925,Küçük Hüseyinbey
+3925,3926,Murateli
+3926,3927,İbrahimce
+3927,3928,Mehmet Rıfat Kazancıoğlu
+3928,3929,Habib Hoca
+3929,3930,Çaydamar
+3930,3931,Güzelköy
+3931,3932,Alihocalar
+3932,3933,Alakova
+3933,3934,Gez Köyü OSB
+3934,3935,Çeştepe
+3935,3936,Beylerbeyi Köyü
+3936,3937,Gazicelal
+3937,3938,Çiftehan Köyü
+3938,3939,Kesmetaş
+3939,3940,Aliağa
+3940,3941,Eskikadın Köyü
+3941,3942,Cintaşı
+3942,3943,Tatlıca
+3943,3944,Ağdacı
+3944,3945,Gökyazı
+3945,3946,Hasanlar
+3946,3947,Bahçeli Köyü
+3947,3948,Söğütlü Köyü
+3948,3949,Ömerler
+3949,3950,Gaylan
+3950,3951,Akçakaya
+3951,3952,Derebaşı
+3952,3953,Şıh Abdullah
+3953,3954,Eğriçay
+3954,3955,Hamamlı
+3955,3956,Balcı
+3956,3957,Göllüce
+3957,3958,Kaynartepe
+3958,3959,Boyacı
+3959,3960,Dereobası Köyü
+3960,3961,Çengilli
+3961,3962,Çavuşlu Köyü
+3962,3963,Pekmezli Köyü
+3963,3964,Hüseyinfakı Köyü
+3964,3965,Aşağıkalecik Köyü
+3965,3966,Mursallı
+3966,3967,Çarıksız Köyü
+3967,3968,Büyükhusun Köyü
+3968,3969,Hasseki
+3969,3970,Sazlıca Bld. (Yeni)
+3970,3971,Ovacuma Köyü
+3971,3972,Çalıdağı Köyü
+3972,3973,Bozlar Köyü
+3973,3974,Kapcami
+3974,3975,Hisaralan
+3975,3976,Topuzlar
+3976,3977,Bektaş Köyü
+3977,3978,Adatepe Köyü
+3978,3979,Kabalı Köyü
+3979,3980,Ilıcaköy
+3980,3981,Dedeli Köyü
+3981,3982,Bozalan Köyü
+3982,3983,Başçeşme
+3983,3984,Aksutekke Köyü
+3984,3985,Üçler
+3985,3986,Salihiye
+3986,3987,Kurbanbaba
+3987,3988,Ahicelal
+3988,3989,Işıkkara Köyü
+3989,3990,Zaferler
+3990,3991,Kuruçay
+3991,3992,Muzaffer Ekşi
+3992,3993,Babalı
+3993,3994,Çile
+3994,3995,Dağoba Köyü
+3995,3996,Bölük
+3996,3997,Dağkadı
+3997,3998,Yalakdere
+3998,3999,Yürükler
+3999,4000,İsmailağatolu Köyü
+4000,4001,Olucak
+4001,4002,Kapucubaşı
+4002,4003,Korubaşı Köyü
+4003,4004,Kemallı Köyü
+4004,4005,Yediselviler
+4005,4006,Çomaklı
+4006,4007,Laledere Köyü
+4007,4008,Uçak
+4008,4009,Altınova Düden
+4009,4010,Kavlaklar
+4010,4011,Kangırlı Köyü
+4011,4012,Aksaz Köyü
+4012,4013,Şirince
+4013,4014,Taşlık Köyü
+4014,4015,Fevziye
+4015,4016,Pazarkaşı
+4016,4017,Evkafçiftliği
+4017,4018,Firuzpaşa-Gazipaşa
+4018,4019,Hatunsaray
+4019,4020,Türkgücü
+4020,4021,Selçuklar
+4021,4022,İnece Bld. (Ulukonak)
+4022,4023,Otluoğlu Köyü
+4023,4024,Olukpınar
+4024,4025,Karaahmetli Köyü
+4025,4026,Mollahasanlar Köyü
+4026,4027,Yanıkağıl
+4027,4028,Yahyaçavuş Köyü
+4028,4029,Bulancak
+4029,4030,Yavaşlar Köyü
+4030,4031,Ekşiler
+4031,4032,Ağaçköy Köyü
+4032,4033,Eğrigöl
+4033,4034,Atlıhisar Köyü
+4034,4035,Kacalı
+4035,4036,Kırıklı
+4036,4037,Nalbantlar
+4037,4038,Koğukçınar
+4038,4039,Eğrikavak
+4039,4040,Çalköy
+4040,4041,Boğazköy
+4041,4042,Çilekli
+4042,4043,Dervişağa
+4043,4044,Gökçebayır Köyü
+4044,4045,Kocaköy Köyü
+4045,4046,Şenyurt Bld. (Üçgözen)
+4046,4047,Polat Paşa
+4047,4048,Çokören
+4048,4049,Yokuşdibi
+4049,4050,Kaklıç
+4050,4051,Çiftçiibrahim
+4051,4052,Sinancılar
+4052,4053,Eğridere
+4053,4054,Bayırbağ Köyü
+4054,4055,Alaağaç
+4055,4056,Yenigöçmen
+4056,4057,Uluköy Köyü
+4057,4058,Yapılcan Köyü
+4058,4059,Değirmendere Fevzi Çakmak
+4059,4060,Tuzla Köyü
+4060,4061,Ayvagediği
+4061,4062,Küçükhusun Köyü
+4062,4063,Günerli
+4063,4064,Hamzabey Köyü
+4064,4065,Akalan
+4065,4066,Bozarmut
+4066,4067,Adsız
+4067,4068,Taşburun
+4068,4069,Çomranlı Köyü
+4069,4070,Belevi
+4070,4071,Özdemir
+4071,4072,Ovakent
+4072,4073,Rüstemler
+4073,4074,Alaşarköy
+4074,4075,Nusratlı Köyü
+4075,4076,Yukarıkocayatak
+4076,4077,Ayvaköy
+4077,4078,Aşağışakran
+4078,4079,Bağlı
+4079,4080,Kapaklı
+4080,4081,Gümüşpınar Köyü
+4081,4082,Civler Köyü
+4082,4083,Erdoğan
+4083,4084,Akpınar Köyü
+4084,4085,Yanıklar Köyü
+4085,4086,Gökbel
+4086,4087,Yerkesik
+4087,4088,Akçasusurluk
+4088,4089,Göltarla
+4089,4090,Gedik Köyü
+4090,4091,Horzum
+4091,4092,Gençali
+4092,4093,Yolağzı
+4093,4094,Taşkısığı
+4094,4095,Altınyaprak
+4095,4096,Kozyörük
+4096,4097,Topakkaya Bld. (Fatih)
+4097,4098,Bozköy
+4098,4099,Yusuflar
+4099,4100,Uçhisar Bld. (Aşağı)
+4100,4101,Esiroğlu
+4101,4102,Poyraz Köyü
+4102,4103,Bağalan
+4103,4104,Ahmetçeli Köyü
+4104,4105,Sarpıncık
+4105,4106,Sakarıılıca
+4106,4107,Satmazlı
+4107,4108,Kiramettin
+4108,4109,Kayalıoğlu
+4109,4110,Dere Aşıklar
+4110,4111,Yaylapınar Uhud
+4111,4112,Seğirdim
+4112,4113,Evrenli
+4113,4114,Sazlıca Bld. (Aşağı)
+4114,4115,Karaömerli
+4115,4116,Kozkayı
+4116,4117,Topakkaya Bld. (Medeni)
+4117,4118,Yukarıyavucak
+4118,4119,Çaykenarı
+4119,4120,Oklalı
+4120,4121,Yakapınar
+4121,4122,Çakırözü Köyü
+4122,4123,Pazarkapı
+4123,4124,Selvili
+4124,4125,Bektaşlar
+4125,4126,Tuztaşı Köyü
+4126,4127,Gölyaka
+4127,4128,Boğazköprü
+4128,4129,Akçin Köyü
+4129,4130,Kargalık
+4130,4131,Tortumkale
+4131,4132,Balabanlı Köyü
+4132,4133,Ağaççamı Köyü
+4133,4134,Narıncalıpıtrak
+4134,4135,Demirci Köyü
+4135,4136,Karacaören Köyü
+4136,4137,Toluklar Köyü
+4137,4138,Danişment
+4138,4139,Hacıarslanlar
+4139,4140,Kurtbey Köyü
+4140,4141,Kozbeyli
+4141,4142,Darısekisi
+4142,4143,Hamamlıkızık
+4143,4144,Tophisar
+4144,4145,Yakupabdal
+4145,4146,Dümrek Köyü
+4146,4147,Yenibey
+4147,4148,Demirkazık Köyü
+4148,4149,Gömeç
+4149,4150,Harmancık
+4150,4151,Serhat Köyü
+4151,4152,Çalışkanlar
+4152,4153,Karabayır Köyü
+4153,4154,Yunuslar
+4154,4155,Paşapınarı
+4155,4156,Kumyalı Köyü
+4156,4157,Sürmeli Köyü
+4157,4158,Darıca
+4158,4159,Yabancılar
+4159,4160,Çayırbağı
+4160,4161,Kalfalar
+4161,4162,Minare
+4162,4163,Yüzbaşı Şerafettin
+4163,4164,Buruncuk
+4164,4165,Akçat
+4165,4166,Doğanlı Köyü
+4166,4167,Bezirganlar Köyü
+4167,4168,Salihpaşalar
+4168,4169,Bayırakçaşehir
+4169,4170,Çövek
+4170,4171,Yaylacık Köyü
+4171,4172,Saipler
+4172,4173,Tatköy
+4173,4174,Sağlık Bld. (Divanoğlu)
+4174,4175,Üvecik Köyü
+4175,4176,Şeyhmüftü
+4176,4177,Sarıkaya
+4177,4178,Çavuşköy Köyü
+4178,4179,Üstatlar
+4179,4180,Üçoluk
+4180,4181,Taştepe Köyü
+4181,4182,Doğrugöz
+4182,4183,Koyunlu Köyü
+4183,4184,Büyükmangıt
+4184,4185,Ağacık
+4185,4186,Kızılköy Köyü
+4186,4187,Sarıpınar
+4187,4188,Salur
+4188,4189,Kocaali
+4189,4190,Eskioba
+4190,4191,Çimendere
+4191,4192,Muncurlu Köyü
+4192,4193,Kızık
+4193,4194,Üçdibek
+4194,4195,Girmeler
+4195,4196,Ortahisar Bld. (Esentepe)
+4196,4197,Sındal Köyü
+4197,4198,Eldirek
+4198,4199,İmrendere
+4199,4200,Bayramca
+4200,4201,Arslanyaylası
+4201,4202,Kışlacık
+4202,4203,Ketenci
+4203,4204,Sarıcaali Köyü
+4204,4205,Düğüncülü Köyü
+4205,4206,Senem Ayşe
+4206,4207,Gökben
+4207,4208,Aşağıışıklar
+4208,4209,Çayyaka
+4209,4210,Petrolkent
+4210,4211,Çardakbelen
+4211,4212,Şehitlik Köyü
+4212,4213,Söğütören
+4213,4214,Sıraç
+4214,4215,Bünyanosmaniye
+4215,4216,Hocaköy Köyü
+4216,4217,Okçular Köyü
+4217,4218,Pazarköy
+4218,4219,Kayalı Köyü
+4219,4220,Bekirpaşa
+4220,4221,Burunköy
+4221,4222,Teknepınar
+4222,4223,Balıbey
+4223,4224,Karakiraz
+4224,4225,Evrenköy
+4225,4226,Nurlupınar
+4226,4227,Karasoku
+4227,4228,Çalca
+4228,4229,Göçbeyli
+4229,4230,Sekü Köyü
+4230,4231,Gesi Kayabağ
+4231,4232,Yolören
+4232,4233,Büyük
+4233,4234,Mazılı
+4234,4235,Haydarlar
+4235,4236,Mağralı
+4236,4237,Karayusuflu
+4237,4238,Esence
+4238,4239,Pulcular
+4239,4240,Kestanelik
+4240,4241,Tepearası
+4241,4242,Belçınar
+4242,4243,Kuleönü Bld. (Yenicami)
+4243,4244,Aşağışapcı Köyü
+4244,4245,Hisarardı
+4245,4246,Nif
+4246,4247,Çamlıca Köyü
+4247,4248,Yeşiltepe Köyü
+4248,4249,Dağyenice
+4249,4250,Avunduk
+4250,4251,Hamdibey Köyü
+4251,4252,Ayaskent
+4252,4253,Batısandal
+4253,4254,Durmuşlar
+4254,4255,Safiye
+4255,4256,Taşlıgeçit
+4256,4257,Alacamescit Köyü
+4257,4258,Şehit Mehmet
+4258,4259,Keben
+4259,4260,Küçükmehmet Köyü
+4260,4261,Ayvatdede
+4261,4262,Hacıgelen Köyü
+4262,4263,Kırkgöz
+4263,4264,Elektrik
+4264,4265,Doğan Güreş Paşa
+4265,4266,Bozyurt
+4266,4267,Küçükkaynarca
+4267,4268,Yukarıada
+4268,4269,Sekiköy
+4269,4270,Biberoğlu
+4270,4271,Dutlucamii
+4271,4272,Ortahisar Bld. (Yeni)
+4272,4273,Bıyıkali
+4273,4274,Esenpınar
+4274,4275,Kumköy Köyü
+4275,4276,Akdam
+4276,4277,Döğüşbelen
+4277,4278,Müştakbey
+4278,4279,Saman
+4279,4280,Sam
+4280,4281,Kalburcu
+4281,4282,Horozlar
+4282,4283,Saçaklı Köyü
+4283,4284,Çamdere
+4284,4285,Boyunkaya Köyü
+4285,4286,Tipi
+4286,4287,Ahiler Yenice
+4287,4288,Tatkavaklı
+4288,4289,Karagömlek Köyü
+4289,4290,İpekçiler
+4290,4291,Süleymanlı
+4291,4292,Savadiye
+4292,4293,Yenibedir Köyü
+4293,4294,Uzunöz
+4294,4295,Ekinli
+4295,4296,Alankıyı
+4296,4297,Kirazlı Köyü
+4297,4298,Hamitabat Köyü
+4298,4299,Yazıköy Köyü
+4299,4300,Sorkun
+4300,4301,Gesi Güzelköy
+4301,4302,Pazarköy Köyü
+4302,4303,Soğukoluk
+4303,4304,Nar Bld. (Aşağı)
+4304,4305,Çakırbeyli
+4305,4306,Çenger
+4306,4307,Mirzaoba
+4307,4308,Sofça Köyü
+4308,4309,Yassıgeçit
+4309,4310,Dolbazlar
+4310,4311,Suçatı
+4311,4312,Balkaya
+4312,4313,Yayla Köyü
+4313,4314,Çukurköy
+4314,4315,Tahtakuşlar
+4315,4316,Beğendik
+4316,4317,Avcıköy
+4317,4318,Vişneli
+4318,4319,Emine Tevfika Ayaşlı
+4319,4320,Kavakarası
+4320,4321,Kulfal Köyü
+4321,4322,Davutlar Köyü
+4322,4323,Orta Yılmazlar
+4323,4324,Beğiş
+4324,4325,Organize Sanayi Bölgesi
+4325,4326,Epsemce
+4326,4327,Sarpdere Köyü
+4327,4328,Kuzgunkavak
+4328,4329,Yağcı
+4329,4330,Paşaören
+4330,4331,Erbeyli
+4331,4332,Yenimescit
+4332,4333,Tırazlı
+4333,4334,Sarıçayır Köyü
+4334,4335,Mahmudiye Köyü
+4335,4336,Ahmet Bedevi
+4336,4337,Yukarıhüseyinşeyh
+4337,4338,Demirbey
+4338,4339,Taşkesiği
+4339,4340,Varsaklar
+4340,4341,Kuytucak
+4341,4342,Balabanlı
+4342,4343,Osmaniye Köyü
+4343,4344,Hıdırbeyli
+4344,4345,Çınardibi
+4345,4346,Yaşar Aktürk
+4346,4347,Sanayii
+4347,4348,Çölgüzeli
+4348,4349,Hakverdi
+4349,4350,Ahıhıdır
+4350,4351,Çayırdere
+4351,4352,Çakılköy
+4352,4353,Tokuşlar
+4353,4354,Yeşilvadi
+4354,4355,Çamlıca OSB
+4355,4356,Gökçehüyük
+4356,4357,Kutlugün
+4357,4358,İmişehir
+4358,4359,Dokuz
+4359,4360,Gödence
+4360,4361,Ferhadanlı
+4361,4362,Dereçavuşköy
+4362,4363,Seyrancık
+4363,4364,Gölköy Köyü
+4364,4365,Babahızır Köyü
+4365,4366,Siner
+4366,4367,Menteşe
+4367,4368,Karasınır
+4368,4369,Boğaziçi Bld. (Çayırtarla)
+4369,4370,Üçeylül
+4370,4371,Mahmut Sönmez
+4371,4372,Faralya
+4372,4373,Fethiye OSB
+4373,4374,Alandüzü
+4374,4375,Mağara
+4375,4376,Dağdere
+4376,4377,Küçükbalıklı
+4377,4378,Emirceoğlu
+4378,4379,Sayağzı
+4379,4380,Yağmurlu
+4380,4381,Cedit Ali Paşa
+4381,4382,Çaltıbozkır
+4382,4383,Toprakdere
+4383,4384,Tepeboz
+4384,4385,Tatarköy Köyü
+4385,4386,Ballık Köyü
+4386,4387,Çadırlı
+4387,4388,Nadırlı Köyü
+4388,4389,Zile
+4389,4390,Lütfiyeköşk
+4390,4391,Yarımca Köyü
+4391,4392,Kertil
+4392,4393,Ulaş Köyü
+4393,4394,Eskiköy
+4394,4395,Ömercik
+4395,4396,Musazade
+4396,4397,İsmailli
+4397,4398,Erkilet Arabidin
+4398,4399,Kırcağız
+4399,4400,Yassıören
+4400,4401,Evciler Köyü
+4401,4402,Kesiktaş
+4402,4403,Kisecik
+4403,4404,Uzuncaburç
+4404,4405,Bayramdere
+4405,4406,Dervişler
+4406,4407,Kahya
+4407,4408,Göncek Köyü
+4408,4409,Çökek
+4409,4410,Hızar
+4410,4411,Büyük Ada
+4411,4412,Yörükyenicesi
+4412,4413,Asmalı
+4413,4414,Topağaç
+4414,4415,Değirmenlik Bucağı (Balıkesir Mh.)
+4415,4416,Narlıca
+4416,4417,Kırkpınar
+4417,4418,Aşağıdere
+4418,4419,Tekmen
+4419,4420,Kurtuluş Köyü
+4420,4421,Yayla Mh.
+4421,4422,Eğrek
+4422,4423,Yenisefa Köyü
+4423,4424,Nasırlı Köyü
+4424,4425,Cankurtaran
+4425,4426,Kınık OSB
+4426,4427,Avdan Köyü
+4427,4428,Gedikli
+4428,4429,Çatalca
+4429,4430,Küçükyoncalı
+4430,4431,Hayriye Köyü
+4431,4432,Şükriye
+4432,4433,Gazlıgöl Bld. (Belce)
+4433,4434,Gazlıgöl Bld. (Cumhuriyet)
+4434,4435,Bozhüyük Köyü
+4435,4436,Kevser
+4436,4437,Aşağıçanlı
+4437,4438,Köprülü Köyü
+4438,4439,Çağa
+4439,4440,Örencik
+4440,4441,Çubukkoyağı
+4441,4442,Elmalık Köyü
+4442,4443,Dağküplü
+4443,4444,Kındıra Köyü
+4444,4445,Bükdeğirmeni
+4445,4446,Çiçeklidüz
+4446,4447,Kuyumculu
+4447,4448,Şehitalibey
+4448,4449,Karasait
+4449,4450,Gürgenyatak
+4450,4451,Develi Köyü
+4451,4452,Aşağıkartal
+4452,4453,Balcılar
+4453,4454,Kabakdağı
+4454,4455,Çeltikköy
+4455,4456,Elmacık Köyü
+4456,4457,Güvemalan Köyü
+4457,4458,Karaabdülbaki
+4458,4459,Hasantepe
+4459,4460,Birgi
+4460,4461,Karamüezzinler
+4461,4462,Akfırat
+4462,4463,Kurtköy Köyü
+4463,4464,Şirinköy Köyü
+4464,4465,Gökçe Köyü
+4465,4466,Kızılcaköy
+4466,4467,Ovakent Bld. (Mevlana)
+4467,4468,Beylik
+4468,4469,Yeniköy Köyü
+4469,4470,Büyükmandıra Bld. (Hürriyet)
+4470,4471,Kasaba
+4471,4472,Gençosman Köyü
+4472,4473,Ketenciler
+4473,4474,Etyemez
+4474,4475,Kirazlıkyeni
+4475,4476,Gesi Kuzey
+4476,4477,Bahçeli Bld. (Zafer)
+4477,4478,Gömü Bld. (Bağlarbaşı)
+4478,4479,Büyükgökçeli Köyü
+4479,4480,Küçükçetmi Köyü
+4480,4481,Üçköprü Köyü
+4481,4482,Bereketli
+4482,4483,Kızılcık Köyü
+4483,4484,Cabi
+4484,4485,Yeşilsırt
+4485,4486,Karşıyaka Köyü
+4486,4487,Hamidiye Merkez
+4487,4488,Zeytinler
+4488,4489,Uçarı
+4489,4490,Akçakiraz Bld. (Hürriyet)
+4490,4491,Karaca Ali
+4491,4492,Katip
+4492,4493,Selamlar Köyü
+4493,4494,Hasanlı
+4494,4495,Saydanlar
+4495,4496,İshakçelebı
+4496,4497,Aşağıpınarbaşı
+4497,4498,2. OSB
+4498,4499,Yatağan
+4499,4500,Etrenli
+4500,4501,Recep
+4501,4502,Palamutçuk
+4502,4503,Dağbelen
+4503,4504,Humanız
+4504,4505,Çal
+4505,4506,Araplar
+4506,4507,Kemerkasım Köyü
+4507,4508,Yağlıpınar
+4508,4509,Bebekli
+4509,4510,Ahibaba
+4510,4511,Karaveliler
+4511,4512,Bağarası
+4512,4513,Şimşir
+4513,4514,Abide
+4514,4515,Müfide İlhan
+4515,4516,Kemerçeşme
+4516,4517,Şehitishak
+4517,4518,Şemsettin
+4518,4519,Ardahan Köyü
+4519,4520,Kumburun Köyü
+4520,4521,Eşen
+4521,4522,Yumurtalık
+4522,4523,Orak Adası
+4523,4524,Çataltömek
+4524,4525,Yukarıbey
+4525,4526,Hazinedar Köyü
+4526,4527,Serçin
+4527,4528,Surlariçi Mh.
+4528,4529,Yaylapınar Süleymaniye
+4529,4530,Yığınlı
+4530,4531,Karaçalılık
+4531,4532,Kavakköy Bld. (Cumhuriyet)
+4532,4533,Küçükkale
+4533,4534,Çırpı Cami
+4534,4535,Turluk
+4535,4536,Ferahfaki
+4536,4537,Işıkeli Köyü
+4537,4538,Kösbucağı
+4538,4539,Karabürçek
+4539,4540,Korudeğirmen
+4540,4541,Zengen Köyü
+4541,4542,Sarıçalı
+4542,4543,Günbaşı Köyü
+4543,4544,Asar Köyü
+4544,4545,Kayaş
+4545,4546,Oltanbey
+4546,4547,Karaözü
+4547,4548,Hasanoğlan Bahçelievler
+4548,4549,Kozköy
+4549,4550,İmamlı
+4550,4551,Hasanağa OSB
+4551,4552,Ferizler
+4552,4553,Darboğaz Köyü
+4553,4554,Ağırdağ Köyü
+4554,4555,Karakuyu
+4555,4556,Sazlıbosna
+4556,4557,Gebze OSB
+4557,4558,Dursunköy
+4558,4559,Çamkonak
+4559,4560,Cihadiye
+4560,4561,Kuzca
+4561,4562,Aşağıçalıca
+4562,4563,Devteyşti
+4563,4564,İkramiye
+4564,4565,Kıroba
+4565,4566,İpekyol
+4566,4567,Yenihisar
+4567,4568,Gökçepınar
+4568,4569,Yenisarıbey
+4569,4570,Suluca Köyü
+4570,4571,Hacıbey
+4571,4572,Sultansazı OSB
+4572,4573,Arılı Köyü
+4573,4574,Gökçeyaka
+4574,4575,Beylice
+4575,4576,Karakoç Köyü
+4576,4577,Başayaş
+4577,4578,Karaman Köyü
+4578,4579,Ormanlı
+4579,4580,Hacıkadirler Köyü
+4580,4581,Kavala
+4581,4582,Taşkesti Bld. (Karacasumandıra)
+4582,4583,Nardüzü
+4583,4584,Kırıklar Köyü
+4584,4585,Ümitalan
+4585,4586,Taylıeli
+4586,4587,Hacıalanı
+4587,4588,Akçalı
+4588,4589,Serinevler
+4589,4590,Kuleönü Bld. (Okul)
+4590,4591,Pınarbaşı Köyü
+4591,4592,Bayralar
+4592,4593,Harmandalı
+4593,4594,Yağcılar Köyü
+4594,4595,Kuyucak Köyü
+4595,4596,Aksalur Salur
+4596,4597,Nazarköy
+4597,4598,Ortaören
+4598,4599,Epçe
+4599,4600,Narhisar
+4600,4601,Mullakasım
+4601,4602,Saraycık Köyü
+4602,4603,İhsaniye Köyü
+4603,4604,Çayırova Köyü
+4604,4605,Yolkonak Köyü
+4605,4606,Yeniçiftlik Köyü
+4606,4607,Yayakbaşı Köyü
+4607,4608,Akademi
+4608,4609,Divanlı Köyü
+4609,4610,Kaleburcu
+4610,4611,Büyükbostancı
+4611,4612,Doğanyurt
+4612,4613,Abalı
+4613,4614,Tatlısu Köyü (Yalı Mh.)
+4614,4615,Yukarısevindikli
+4615,4616,Atariye
+4616,4617,Alaylar İki
+4617,4618,Yenimuhacir Bld. (Cumhuriyet)
+4618,4619,Karamustafalı
+4619,4620,Akören Köyü
+4620,4621,Servetiye Cami
+4621,4622,Çiftçi
+4622,4623,Karaevli
+4623,4624,Çeltik
+4624,4625,Dualar
+4625,4626,Sökmen
+4626,4627,Gönü
+4627,4628,Filyos Bld. (Kocaali)
+4628,4629,Örençay Köyü
+4629,4630,Pınarkent
+4630,4631,Sırasöğüt
+4631,4632,Çallı
+4632,4633,Kemerhisar Bld. (Tepe)
+4633,4634,Çayırbağ Bld. (Ali Çetinkaya)
+4634,4635,Gölhisar
+4635,4636,Çapalı
+4636,4637,Çınarlıkuyu
+4637,4638,Küçükkarapürçek
+4638,4639,Doğla
+4639,4640,Avşar
+4640,4641,Akçakiraz Bld. (Kültür)
+4641,4642,Gönenkent
+4642,4643,Esenli Köyü
+4643,4644,Şehitduran
+4644,4645,Korucu
+4645,4646,Kayalarmemduhiye
+4646,4647,Erkenek
+4647,4648,Alpullu Bld. (Yeni)
+4648,4649,Gümüşoluk
+4649,4650,Sekiören Köyü
+4650,4651,Sapanca Köyü
+4651,4652,Topraklı
+4652,4653,Sabırlı
+4653,4654,Karakese
+4654,4655,Aşağıoba
+4655,4656,Eşme
+4656,4657,Damlalı
+4657,4658,Lalabel
+4658,4659,Tabur
+4659,4660,Nohuttepe Köyü
+4660,4661,Şahinbey
+4661,4662,Kumcığaz
+4662,4663,Bandırlık Köyü
+4663,4664,Karadere
+4664,4665,Buzhane
+4665,4666,Rumelifeneri
+4666,4667,İslamköy Köyü
+4667,4668,Bakırköy
+4668,4669,İnaç Köyü
+4669,4670,Tosmurlu
+4670,4671,Ağıllı
+4671,4672,Ağapınar
+4672,4673,Altayköy
+4673,4674,İdriskoru Köyü
+4674,4675,Ayvazpınarı
+4675,4676,Çilingir
+4676,4677,Hıdırağa Köyü
+4677,4678,Aşağıgüney
+4678,4679,Sefaköy
+4679,4680,Berk Köyü
+4680,4681,Altıeylül
+4681,4682,Dere Köyü
+4682,4683,Çamoluk
+4683,4684,Yukarı Hereke
+4684,4685,Aktoprak
+4685,4686,Burç Karakuyu
+4686,4687,Balcıoğlu
+4687,4688,Bayramiç
+4688,4689,Ulubağ
+4689,4690,Alibeyhüyüğü
+4690,4691,Kaba
+4691,4692,Tartışık Köyü
+4692,4693,Yusufbey
+4693,4694,Aslanlı
+4694,4695,Hacımurat
+4695,4696,Çakırlı
+4696,4697,Eşrefzade
+4697,4698,Uzuncaorman
+4698,4699,Olukman
+4699,4700,Akdoğan
+4700,4701,Göllü Bağları
+4701,4702,Afşın Bey
+4702,4703,Yenişerefiye
+4703,4704,Uşakpınarı
+4704,4705,Değişören
+4705,4706,Vakıflar
+4706,4707,İsmet Paşa OSB
+4707,4708,Abdulvahabigazi
+4708,4709,Sepetçi
+4709,4710,Durucasu
+4710,4711,Büyükköy
+4711,4712,Eminceler
+4712,4713,Danişment Köyü
+4713,4714,Yuvalak
+4714,4715,Turan Emeksiz
+4715,4716,Pirili
+4716,4717,Tavşan Adası
+4717,4718,Teke
+4718,4719,Engürücük
+4719,4720,Kavak
+4720,4721,Botsa
+4721,4722,Saitabat
+4722,4723,Nevruz Köyü
+4723,4724,Kurtlar Köyü
+4724,4725,Armutlu Köyü
+4725,4726,Mahmutlu
+4726,4727,Yemliha
+4727,4728,Puna Ortaköy
+4728,4729,Çağırgan
+4729,4730,Bölükdamlar
+4730,4731,Toslak
+4731,4732,Bölcek
+4732,4733,Alay Bld. (Hürriyet)
+4733,4734,Kocayayla Köyü
+4734,4735,Bahçeköy
+4735,4736,Beyköy Bld. (Kültür)
+4736,4737,Dedeler
+4737,4738,Hacıazizler
+4738,4739,Gümüşdere
+4739,4740,Sarayköy
+4740,4741,Altınüzüm
+4741,4742,Adagören
+4742,4743,Ağızlar
+4743,4744,Balıkçılar Köyü
+4744,4745,Şehit Nurettin Ademoğlu
+4745,4746,Acıklı
+4746,4747,Güzelkuyu
+4747,4748,Eskikonacık
+4748,4749,Urganlı
+4749,4750,Çağlayan Mh.
+4750,4751,Akçalı Köyü
+4751,4752,Karacalar Köyü
+4752,4753,Kuşluca
+4753,4754,Hatay
+4754,4755,Yukarıbayır
+4755,4756,Turnalık
+4756,4757,Dr. İhsan Göknal
+4757,4758,Küçücek İstiklal
+4758,4759,Akbulgur Köyü
+4759,4760,Süksün Hürriyet
+4760,4761,Bayram
+4761,4762,Hacı İsmail
+4762,4763,Baklalı
+4763,4764,Şuayipli
+4764,4765,Hocallı
+4765,4766,Çileme
+4766,4767,500 Evler
+4767,4768,Bozaniç
+4768,4769,Çobanözü
+4769,4770,Doğankaya
+4770,4771,Durusu
+4771,4772,İnece Bld. (Kazımpaşa)
+4772,4773,Çığmış
+4773,4774,Basırlı
+4774,4775,Ekmekçi
+4775,4776,Alanköy
+4776,4777,Yaylapınar
+4777,4778,Küçükbelen
+4778,4779,Beykapusu
+4779,4780,Ballıbostan Köyü
+4780,4781,Süleymandanişment Köyü
+4781,4782,Ulucak
+4782,4783,Kırkçeşme
+4783,4784,Gökçen
