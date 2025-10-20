@@ -13,7 +13,7 @@ class RecomendationSystem:
         return pd.read_csv('datasets/df_films_reviews.csv')
     
     def create_users_pivot(self, df_films_reviews: pd.DataFrame) -> pd.DataFrame:
-        new_df = df_films_reviews[(df_films_reviews['userId'].map(df_films_reviews['userId'].value_counts()) > 1000) | (df_films_reviews['userId'] == 222333)]
+        new_df = df_films_reviews[(df_films_reviews['userId'].map(df_films_reviews['userId'].value_counts()) > 1000) | (df_films_reviews['userId'] == 222333)| (df_films_reviews['userId'] == 333222)]
         users_pivot=new_df.pivot_table(index=["userId"],columns=["title"],values="rating")
         users_pivot.fillna(0,inplace=True)
         return users_pivot
@@ -71,6 +71,23 @@ class RecomendationSystem:
         favorite_films=pd.DataFrame({"favorite films ":list_favorite_films, "distances" : favorite_distances})
         return favorite_films
     
+    def find_rating_films_user(self, User_id):
+        return self.df_films_reviews[self.df_films_reviews['userId'] == User_id][['title', 'year-production', 'genres', 'rating']].sort_values(by='genres')
+    
+    def find_favorite_genres_user(self, User_id):
+        new_df = self.df_films_reviews[self.df_films_reviews['userId'] == User_id]
+        avg_ratings = new_df.groupby('genres')['rating'].mean().reset_index().rename(columns={'rating': 'avg_rating'})
+        avg = pd.DataFrame(avg_ratings).sort_values('avg_rating',ascending=False)
+        cnt_ratings = new_df.groupby('genres')['rating'].count().reset_index().rename(columns={'rating': 'count_rating'})
+        cnt=pd.DataFrame(cnt_ratings).sort_values('count_rating',ascending=False)
+        popularite=avg.merge(cnt,on='genres')
+        v=popularite["count_rating"]
+        R=popularite["avg_rating"]
+        m=v.quantile(0.90)
+        c=R.mean()
+        popularite['w_score']=((v*R) + (m*c)) / (v+m)
+        return popularite.sort_values('w_score',ascending=False).head(10).reset_index()[['genres', 'w_score']]
+    
     def genre_films(self):
         return self.df_films_reviews['genres'].unique().tolist()
     
@@ -78,7 +95,7 @@ class RecomendationSystem:
         return self.df_films_reviews['title'].unique().tolist()
 
     def users_id(self):
-        new_df = self.df_films_reviews[(self.df_films_reviews['userId'].map(self.df_films_reviews['userId'].value_counts()) > 1000) | (self.df_films_reviews['userId'] == 222333)]
+        new_df = self.df_films_reviews[(self.df_films_reviews['userId'].map(self.df_films_reviews['userId'].value_counts()) > 1000) | (self.df_films_reviews['userId'] == 222333) | (self.df_films_reviews['userId'] == 333222)]
         return new_df.userId.unique().tolist()
 
 app = FastAPI()
@@ -99,6 +116,14 @@ def get_same_films_by_name(name_film: str):
 @app.get('/get_favorite_films/{user_id}')
 def get_favorite_films(user_id: int):
     return recomendation_system.find_favorite_films(user_id)
+
+@app.get('/get_find_rating_films_user/{user_id}')
+def get_find_rating_films_user(user_id: int):
+    return recomendation_system.find_rating_films_user(user_id)
+
+@app.get('/get_find_favorite_genres_user/{user_id}')
+def get_find_favorite_genres_user(user_id: int):
+    return recomendation_system.find_favorite_genres_user(user_id)
 
 @app.get('/get_genre_films/')
 def get_genre_films():
