@@ -1,0 +1,2 @@
+0 hot_dog
+1 not_hot_dog
