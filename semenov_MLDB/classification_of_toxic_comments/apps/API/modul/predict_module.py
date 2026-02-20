@@ -54,6 +54,12 @@ class PredictClassComment:
         self.model = self.load_pickle(PATH_MODEL)
         self.tokenizer = self.load_pickle(PATH_TOKENIZER)
         self.type_comment = {
+            0 : 'normal',
+            1 : 'insult',
+            2 : 'threat',
+            3 : 'obscenity',
+        }
+        self.type_comment_output = {
             0 : 'normal(положительный)',
             1 : 'insult(оскорбительный)',
             2 : 'threat(угрожающий)',
@@ -96,4 +102,4 @@ class PredictClassComment:
         token_text = self.conversion_token_one_dimension(clean_comment)
         predict = self.model.predict([token_text])[0]
         
-        return self.response_template_predict_comment.format(self.type_comment[np.argmax(predict)], *[f"{i:.12f}" for i in predict])
+        return [self.type_comment[np.argmax(predict)], self.response_template_predict_comment.format(self.type_comment_output[np.argmax(predict)], *[f"{i:.12f}" for i in predict])]
